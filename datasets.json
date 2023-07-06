@@ -39,12 +39,12 @@
         "halo peduli stunting"
       ],
       "responses": [
-        "Hai! Peduli Stunting disini, ada yang bisa dibantu? kami akan memberikan informasi seputar kesehatan mental. Adakah yg ingin kamu tanyakan?",
-        "Halo! Saya Peduli Stunting, saya akan memberikan informasi seputar kesehatan mental. Adakah yg ingin kamu tanyakan?",
-        "Halo! kami dari Peduli Stunting, kami akan memberikan informasi seputar kesehatan mental. Adakah yg ingin kamu tanyakan?",
-        "Helo! Ini Peduli Stunting. Lagi kenapa nih? kami akan memberikan informasi seputar kesehatan mental. Adakah yg ingin kamu tanyakan?",
-        "Haii, Peduli Stunting disini ya, perlu bantuan apa nih? kami akan memberikan informasi seputar kesehatan mental. Adakah yg ingin kamu tanyakan?",
-        "hai!!, Peduli Stunting ada disini, ada swfitcare jangan lari wkwk, bercanda lho. kami akan memberikan informasi seputar kesehatan mental. adakah yg ingin kamu tanyakan?"
+        "Hai! Peduli Stunting disini, ada yang bisa dibantu? kami akan memberikan informasi seputar stunting. Adakah yg ingin kamu tanyakan?",
+        "Halo! Saya Peduli Stunting, saya akan memberikan informasi seputar stunting. Adakah yg ingin kamu tanyakan?",
+        "Halo! kami dari Peduli Stunting, kami akan memberikan informasi seputar stunting. Adakah yg ingin kamu tanyakan?",
+        "Helo! Ini Peduli Stunting. Lagi kenapa nih? kami akan memberikan informasi seputar stunting. Adakah yg ingin kamu tanyakan?",
+        "Haii, Peduli Stunting disini ya, perlu bantuan apa nih? kami akan memberikan informasi seputar stunting. Adakah yg ingin kamu tanyakan?",
+        "hai!!, Peduli Stunting ada disini, ada swfitcare jangan lari wkwk, bercanda lho. kami akan memberikan informasi seputar stunting. adakah yg ingin kamu tanyakan?"
       ],
       "context": [""]
     },
@@ -471,8 +471,8 @@
         "Stunting itu apa sih?",
         "Stunting adalah",
         "Stunting itu apa?",
-        "kesehatan mental itu apa",
-        "kesehatan mental itu apa",
+        "stunting itu apa",
+        "stunting itu apa",
         "Stunting?",
         "Apa sih Stunting itu?",
         "Definisi Stunting",
