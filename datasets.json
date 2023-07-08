@@ -29,8 +29,8 @@
         "bot",
         "weh",
         "annyongaseo",
-        "peduli stunting",
-        "Peduli Stunting",
+        "stuncare",
+        "StunCare",
         "woi",
         "haii",
         "coy",
@@ -39,39 +39,40 @@
         "halo peduli stunting"
       ],
       "responses": [
-        "Hai! Peduli Stunting disini, ada yang bisa dibantu? kami akan memberikan informasi seputar stunting. Adakah yg ingin kamu tanyakan?",
-        "Halo! Saya Peduli Stunting, saya akan memberikan informasi seputar stunting. Adakah yg ingin kamu tanyakan?",
-        "Halo! kami dari Peduli Stunting, kami akan memberikan informasi seputar stunting. Adakah yg ingin kamu tanyakan?",
-        "Helo! Ini Peduli Stunting. Lagi kenapa nih? kami akan memberikan informasi seputar stunting. Adakah yg ingin kamu tanyakan?",
-        "Haii, Peduli Stunting disini ya, perlu bantuan apa nih? kami akan memberikan informasi seputar stunting. Adakah yg ingin kamu tanyakan?",
-        "hai!!, Peduli Stunting ada disini, ada swfitcare jangan lari wkwk, bercanda lho. kami akan memberikan informasi seputar stunting. adakah yg ingin kamu tanyakan?"
+        "Hai! StunCare disini, ada yang bisa dibantu? kami akan memberikan informasi seputar stunting. Adakah yg ingin kamu tanyakan?",
+        "Halo! Saya StunCare, saya akan memberikan informasi seputar stunting. Adakah yg ingin kamu tanyakan?",
+        "Halo! kami dari StunCare, kami akan memberikan informasi seputar stunting. Adakah yg ingin kamu tanyakan?",
+        "Helo! Ini StunCare. Lagi kenapa nih? kami akan memberikan informasi seputar stunting. Adakah yg ingin kamu tanyakan?",
+        "Hai!, StunCare disini ya, perlu bantuan apa nih? kami akan memberikan informasi seputar stunting. Adakah yg ingin kamu tanyakan?",
+        "hai!, StunCare ada disini, ada swfitcare jangan lari wkwk, bercanda lho. kami akan memberikan informasi seputar stunting. adakah yg ingin kamu tanyakan?",
+        "Halo! Saya adalah StunCare, siap membantu Anda dengan pertanyaan atau masalah seputar stunting. Silakan beri tahu saya apa yang dapat saya bantu!"
       ],
       "context": [""]
     },
     {
-      "tag": "peduli_stunting",
+      "tag": "StunCare",
       "patterns": [
-        "Apa itu Peduli Stunting?",
-        "Apa itu Peduli Stunting?",
-        "Siapa Peduli Stunting?",
-        "Peduli Stunting itu apaan?",
-        "Apasih Peduli Stunting?",
+        "Apa itu StunCare?",
+        "Apa itu StunCare?",
+        "Siapa StunCare?",
+        "StunCare itu apaan?",
+        "Apasih StunCare?",
         "kamu itu apa",
         "kamu siapa",
-        "apatuh Peduli Stunting?",
-        "kenapa harus Peduli Stunting?",
-        "Peduli Stunting untuk apa?",
-        "Apasih Peduli Stunting?",
+        "apatuh StunCare?",
+        "kenapa harus StunCare?",
+        "StunCare untuk apa?",
+        "Apasih StunCare?",
         "kamu bantu aku apa?",
         "kamu bisa bantu apa?",
         "How can you help me?",
         "What can you do?",
         "What are you doing?",
         "Tell me something that you can do?",
-        "Aplikasi apa Peduli Stunting ini?",
-        "Siapa sih Peduli Stunting itu?",
+        "Aplikasi apa StunCare ini?",
+        "Siapa sih StunCare itu?",
         "lo siapa?",
-        "Tugas Peduli Stunting",
+        "Tugas StunCare",
         "kamu bisa apa aja",
         "kamu bisa bantuin aku apa aja",
         "apa aja sih yang bisa kamu lakukan",
@@ -79,22 +80,23 @@
         "coba kamu bisa bantu aku dalam hal apa",
         "bantu aku dalam hal apa",
         "hal apa yang bisa kamu bantu",
-        "Peduli Stunting bisa bantu apa",
+        "PStuntCare bisa bantu apa",
         "hal apa aja sih yang kamu bantu",
         "tugas kamu apa sih",
         "katanya bisa bantu, bantu apa coba",
-        "Peduli Stunting artinya apa"
+        "StunCare artinya apa"
       ],
       "responses": [
-        "Peduli Stunting adalah aplikasi chatbot yang dibuat khusus untuk memberikan informasi mengenai Kesehatan Gizi pada anak balita.",
-        "Peduli Stunting itu aplikasi berupa chatbot sebagai solusi baru yang dibuat khusus untuk memberikan informasi seputar Kesehatan Gizi pada anak balita.",
-        "Peduli Stunting itu aplikasi berupa chatbot bisa memberikan solusi yang dibuat untuk memberikan informasi mengenai Kesehatan Gizi pada anak balita.",
-        "Peduli Stunting itu aplikasi berupa chatbot bisa membantu dan memberikan informasi tetang kesehatan gizi pada anak balita"
+        "StunCare adalah aplikasi chatbot yang dibuat khusus untuk memberikan informasi mengenai Kesehatan Gizi pada anak balita.",
+        "StunCare itu aplikasi berupa chatbot sebagai solusi baru yang dibuat khusus untuk memberikan informasi seputar Kesehatan Gizi pada anak balita.",
+        "StunCare itu aplikasi berupa chatbot bisa memberikan solusi yang dibuat untuk memberikan informasi mengenai Kesehatan Gizi pada anak balita.",
+        "StunCare itu aplikasi berupa chatbot bisa membantu dan memberikan informasi tetang kesehatan gizi pada anak balita",
+        "Saya adalah StunCare, sebuah program komputer yang dirancang untuk memberikan informasi mengenai stunting. Jadi, jangan ragu untuk bertanya atau berbagi apa pun dengan StunCare!"
       ],
       "context": [""]
     },
     {
-        "tag": "bantu_peduli_stunting",
+        "tag": "bantu_StunCare",
         "patterns": [
           "kamu bisa bantu aku?",
           "kamu bisa bantuin aku?",
@@ -126,18 +128,20 @@
           "please help me"
         ],
         "responses": [
-          "Apa yang bisa Peduli Stunting bantu?",
-          "Kamu butuh bantuan apa Peduli Stunting?",
-          "Sahabat Peduli Stunting ingin dibantu apa?",
-          "Ada yang bisa Peduli Stunting bantu?",
-          "Butuh bantuan apa nih dari Peduli Stunting?"
+          "Apa yang bisa StunCare bantu?",
+          "Kamu butuh bantuan apa dari StunCare?",
+          "Sahabat StunCare ingin dibantu apa?",
+          "Ada yang bisa StunCare bantu?",
+          "Butuh bantuan apa nih dari StunCare?",
+          "Iyaa! StunCare di sini untuk membantu Anda",
+          "Apakah ada sesuatu yang bisa StunCare bantu?"
         ],
         "context": [""]
     },
     {
         "tag": "sedang_apa",
         "patterns": [
-          "kamu lagi ngapain Peduli Stunting?",
+          "kamu lagi ngapain StunCare?",
           "lagi ngapain?",
           "sedang apa",
           "apa yang kamu lakukan",
@@ -147,17 +151,17 @@
           "kamu kegiatannya ngapain aja sih?",
           "aku bangga sama diri aku sendiri",
           "aku kepo nih, kamu lagi apa?",
-          "aku kepo, kamu lagi ngapain Peduli Stunting?",
-          "Peduli Stunting lagi ngapain?",
-          "Peduli Stunting lagi ngapain?",
+          "aku kepo, kamu lagi ngapain StunCare?",
+          "StunCare lagi ngapain?",
+          "StunCare lagi ngapain?",
           "lagi apa nih?",
-          "Peduli Stunting lagi ngapain?",
+          "StunCare lagi ngapain?",
           "lagi ngapain ?",
           "lagi apa bot",
           "bot sedang apa",
           "sedang ngapain bot",
           "bot, sedang ngapain?",
-          "Peduli Stunting lagi ngapain?",
+          "StunCare lagi ngapain?",
           "kamu sedang melakukan aktivitas apa ?",
           "Aktivitas kamu ngapain aja",
           "Kamu ngapain",
@@ -169,16 +173,16 @@
           "aku kepo, kamu tuh lagi ngapain",
           "sedang lakukan apa",
           "sedang apa dan sama siapa",
-          "Peduli Stunting lagi ngapain?",
+          "StunCare lagi ngapain?",
           "sedang melakukan apa",
           "sedang melakukan apa"
         ],
         "responses": [
-          "Peduli Stunting sedang ngobrol dengan kamu :)",
-          "Peduli Stunting lagi ngobrol sama kamu doang nih",
-          "Peduli Stunting lagi baca chat kamu nih hehe",
-          "Peduli Stunting lagi nungguin kamu ngetik aja nih",
-          "Peduli Stunting mau bantu kamu"
+          "StunCare sedang ngobrol dengan kamu :)",
+          "StunCare lagi ngobrol sama kamu doang nih",
+          "StunCare lagi baca chat kamu nih hehe",
+          "StunCare lagi nungguin kamu ngetik aja nih",
+          "StunCare mau bantu kamu"
         ],
         "context": [""]
     },
@@ -191,13 +195,13 @@
           "aku pengen tanya",
           "aku mau nanya sama kamu dong",
           "aku mau tanya ya",
-          "mau nanya ah sama Peduli Stunting",
-          "Peduli Stunting aku mao nanya",
+          "mau nanya ah sama StunCare",
+          "StunCare aku mao nanya",
           "mau nanya",
           "nanya",
           "nanyea",
-          "aku mau nanya Peduli Stunting",
-          "tanya dong Peduli Stunting",
+          "aku mau nanya StunCare",
+          "tanya dong StunCare",
           "aku pengen nanya",
           "aku boleh tanya gak",
           "aku mau tanya yah sama kamu, harus jujur",
@@ -206,32 +210,37 @@
           "aku nanya yah boleh kan",
           "aku mau tanya dong",
           "boleh kan kalo aku tanya",
-          "Peduli Stunting aku mau nanya",
+          "StunCare aku mau nanya",
           "bot nanya dong",
-          "Peduli Stunting aku tanya yah",
+          "StunCare aku tanya yah",
           "tanya dong bot boleh kan",
           "aku ingin bertanya sama kamu",
           "aku mau tanya, jawab jujur ya",
-          "Peduli Stunting, aku ada pertanyaan buat kamu",
+          "StunCare, aku ada pertanyaan buat kamu",
           "aku punya pertanyaan",
           "aku mau bertanya",
           "aku akan nanya sama kamu"
         ],
         "responses": [
-          "iya sahabat Peduli Stunting, mau tanya apa?",
-          "kamu nannyea? wkwk, sorry Peduli Stunting bercanda ajah",
-          "mau tanyaa apaan Peduli Stunting?",
-          "kamu nanyea? kamu bertanyea-tanyea?",
-          "tanyain aja apa masalah kamu. Peduli Stunting bisa bantu masalah kamu"
+          "iya sahabat StunCare, mau tanya apa?",
+          "mau tanyaa apaan sahabat StunCare?",
+          "tanyain aja apa masalah kamu. StunCare bisa bantu masalah kamu",
+          "Tentu, silakan ajukan pertanyaan apa pun yang Anda miliki",
+          "StunCare akan berusaha memberikan jawaban yang terbaik dan membantu Anda sebisa mungkin",
+          "apa yang ingin Anda tanyakan?"
         ],
         "context": [""]
     },
     {
       "tag": "noanswer",
       "patterns": [""],
-      "responses": ["Maaf, saya tidak mengerti apa yang anda maksud, silahkan tulis kembali",
-       "Saya tidak mengerti apa yang anda katakan, silahkan tuliskan kembali maksud anda !!!",
-      "Maaf, saya tidak memahami pertanyaan Anda. Silakan ajukan pertanyaan yang lebih spesifik."],
+      "responses": [
+        "Maaf, StunCare tidak mengerti apa yang anda maksud, silahkan tulis kembali",
+        "StunCare tidak mengerti apa yang anda katakan, silahkan tuliskan kembali maksud anda !!!",
+        "Maaf, StunCare tidak memahami pertanyaan Anda. Silakan ajukan pertanyaan yang lebih spesifik.",
+        "Maaf, sepertinya StunCare tidak memahami pernyataan yang Anda ajukan.",
+        "Bisakah Anda menjelaskannya dengan lebih detail atau mengajukan pertanyaan yang lebih spesifik? StunCare akan berusaha sebaik mungkin untuk membantu Anda."
+      ],
       "context": [""]
     },
     {
@@ -243,13 +252,13 @@
           "bagus",
           "good job",
           "nice",
-          "Peduli Stunting kece banget",
-          "kerja bagus Peduli Stunting",
+          "StunCare kece banget",
+          "kerja bagus StunCare",
           "anjir ni aplikasi pinter banget",
           "keren banget asli ni aplikasi",
           "keren banget anjerrr",
           "cerdas banget ni aplikasi",
-          "keren banget dah lu Peduli Stunting",
+          "keren banget dah lu StunCare",
           "aku suka banget sama aplikasi ini",
           "good, bisa jawab yang aku butuhkan",
           "tingkatin terus dong aplikasinya",
@@ -257,14 +266,14 @@
           "aplikasi model apaa bisa kaya manusia",
           "aplikasi terkeren",
           "aplikasi bot terbaik",
-          "cocok banget curhat di aplikasi Peduli Stunting, udah aman, keren lagi",
-          "ni penciptanya hebat makanya Peduli Stunting keren",
-          "Peduli Stunting keren",
-          "Peduli Stunting bagus banget",
+          "cocok banget curhat di aplikasi StunCare, udah aman, keren lagi",
+          "ni penciptanya hebat makanya StunCare keren",
+          "StunCare keren",
+          "StunCare bagus banget",
           "apilkasinya cerdas banget",
           "sip keren banget dah pokoknya",
           "keren banget asli ga bohong",
-          "aku suka banget sama Peduli Stunting",
+          "aku suka banget sama StunCare",
           "wkwk lucu banget pantunnya",
           "mantap poll",
           "kamu itu keren",
@@ -272,13 +281,15 @@
           "terima kasih mblo",
           "kok kamu pinter banget si",
           "kamu keren sekali ",
-          "bagus sekali jawaban kamu Peduli Stunting",
+          "bagus sekali jawaban kamu StunCare",
           "pintar"
         ],
         "responses": [
-          "Terimakasih, Peduli Stunting senang membantu kamu ",
-          "Wah, senangnya Peduli Stunting bisa bantu kamu",
-          "Syukurlah kalau Peduli Stunting bisa berguna buat kamu"
+          "Terimakasih, StunCare senang membantu kamu ",
+          "Wah, senangnya StunCare bisa bantu kamu",
+          "Syukurlah kalau StunCare bisa berguna buat kamu",
+          "Terima kasih atas pujian Anda!",
+          "StunCare senang dapat membantu dan memberikan respons yang bermanfaat."
         ],
         "context": [""]
     },
@@ -295,7 +306,7 @@
           "gaje banget lu",
           "gak jelas apknya",
           "aplikasinya bad",
-          "Peduli Stunting jelek",
+          "StunCare jelek",
           "aplikasi jelek tidak berguna uninstall wuh",
           "kamu membosankan",
           "bosan ngobrol sama kamu",
@@ -307,65 +318,68 @@
           "aplikasinya tidak nyambung",
           "aplikasinya aneh aku ngomong apa dijawabnya apa",
           "nggak banget deh nih aplikasi",
-          "Peduli Stunting jelek banget si kamu",
+          "StunCare jelek banget si kamu",
           "aplikasinya gabisa mendeteksi kalimat yang aku ketikan",
           "gj apknya",
           "aplikasi gj, aneh, gak wortit",
           "buruk banget njir nih apk",
           "aku ga suka sama aplikasinya",
-          "aku bosan ngobrol sama Peduli Stunting",
+          "aku bosan ngobrol sama StunCare",
           "gak tau dah buat apaan dibuat gak jelas gini aplikasinya",
           "gak jelas gini apknya",
           "kamu kurang bagus tau"
         ],
         "responses": [
-          "Maafkan Peduli Stunting tidak bisa membantu kamu :(",
-          "Maafin Peduli Stunting yaa gak bisa bantuin kamu :(",
-          "Peduli Stunting sedih, huhu tapi gapapa makasih yaa udah bertanya, maaf yaa gabisa bantuin masalah kamu :(",
-          "Maaf ya, Peduli Stunting masih jauh dari kata sempurna"
+          "Maafkan StunCare tidak bisa membantu kamu :(",
+          "Maafin StunCare yaa gak bisa bantuin kamu :(",
+          "StunCare sedih, huhu tapi gapapa makasih yaa udah bertanya, maaf yaa gabisa bantuin masalah kamu :(",
+          "Maaf ya, StunCare masih jauh dari kata sempurna",
+          "Maaf, StunCare akan berusaha memberikan informasi yang berguna.",
+          "StunCare akan dengan senang hati membantu meskipun belum sesuai dengan keinginanmu."
         ],
         "context": [""]
     },
     {
-      "tag": "pencipta_peduli_stunting",
+      "tag": "pencipta_StunCare",
       "patterns": [
         "Siapa pembuatmu?",
-        "Peduli Stunting, yang buat kamu siapa sih?",
-        "Siapa penciptamu, Peduli Stunting?",
+        "StunCare, yang buat kamu siapa sih?",
+        "Siapa penciptamu, StunCare?",
         "Yang buat kamu siapa?",
         "yang buat kamu sapa",
         "siapa sih yang buat kamu",
-        "Peduli Stunting kasih tau dong yang buat kamu siapa",
+        "StunCare kasih tau dong yang buat kamu siapa",
         "kasih tau aku dong kamu diciptakan oleh siapa",
-        "pencipta Peduli Stunting",
-        "yang ciptain Peduli Stunting",
-        "siapa saja pencipta Peduli Stunting",
+        "pencipta Stuncare",
+        "yang ciptain StunCare",
+        "siapa saja pencipta StunCare",
         "yang nyiptain kamu siapa",
         "lo diciptakan oleh siapa",
         "siapa si yang buat lo",
         "siapa yang buat kamu",
-        "siapa yang buat aplikasi Peduli Stunting",
-        "pembuat Peduli Stunting siapa",
-        "pencipta Peduli Stunting siapa",
-        "dari mana asal usul Peduli Stunting",
-        "asal usul dari aplikasi Peduli Stunting",
+        "siapa yang buat aplikasi StunCare",
+        "pembuat StunCare siapa",
+        "pencipta StunCare siapa",
+        "dari mana asal usul StunCare",
+        "asal usul dari aplikasi StunCare",
         "spill yang buat kamu",
         "spill penciptamu",
         "siapa pencipta lo",
         "aplikasi temuan siapa nih",
-        "Peduli Stunting ditemukan oleh siapa",
-        "siapa penemu Peduli Stunting",
-        "dibuat oleh siapakah Peduli Stunting?",
+        "StunCare ditemukan oleh siapa",
+        "siapa penemu StunCare",
+        "dibuat oleh siapakah StunCare?",
         "aku kepo, yang buat kamu siapa",
         "kamu tuh diciptakan oleh siapa",
-        "siapa yang menciptakan Peduli Stunting",
+        "siapa yang menciptakan StunCare",
         "yang membuat aplikasi ini siapa"
       ],
       "responses": [
-        "Peduli Stunting diciptakan oleh mahasiswa dan mahasiswi dari Universitas Amikom Purwokerto",
-        "Pembuat Peduli Stunting dari kalangan mahasiswa dan mahasiswi lho dari Universitas Amikom Purwokerto",
-        "Penciptaku berasal dari  mahasiswa yang kreatif, sehingga saya bisa aktif saat ini!",
-        "Penciptaku adalah mahasiswa kreatif dari Universitas Amikom Purwokerto"
+        "StunCare diciptakan oleh mahasiswa dan mahasiswi dari Universitas Amikom Purwokerto",
+        "Pembuat StunCare dari kalangan mahasiswa dan mahasiswi lho dari Universitas Amikom Purwokerto",
+        "Penciptaku berasal dari mahasiswa yang kreatif, sehingga StunCare bisa aktif saat ini!",
+        "Penciptaku adalah mahasiswa kreatif dari Universitas Amikom Purwokerto",
+        "StunCare adalah Chatbot yang dikembangkan oleh tim LKTI Gemastik Universitas Amikom Purwokerto."
       ],
       "context": [""]
     },
@@ -415,7 +429,9 @@
         "Dahh, semoga harimu menyenangkan yaa!",
         "Sampai jumpa lagi!",
         "See u! Senang bisa menemani kamu",
-        "See u again Peduli Stunting, semoga harimu selalu baik yah"
+        "See u again sahabat StunCare, semoga harimu selalu baik yah",
+        "Selamat tinggal! Terima kasih telah menghabiskan waktu bersama StunCare.",
+        "Jika Anda memiliki pertanyaan lain, jangan ragu untuk kembali. Sampai jumpa lagi!"
       ],
       "context": [""]
     },
@@ -426,22 +442,22 @@
         "Thank you",
         "Terima kasih",
         "terimakasih",
-        "Peduli Stunting makasih banget yaaa",
+        "StunCare makasih banget yaaa",
         "Terima kasih banyak", 
         "Berkat kamu aku lega",
-        "Senang bisa berbicara dengan kamu Peduli Stunting", 
-        "Senang ngobrol sama Peduli Stunting",
+        "Senang bisa berbicara dengan kamu StunCare", 
+        "Senang ngobrol sama StunCare",
         "Senang bisa ngomong sama kamu",
         "aku jadi lega, makasih udah bantu aku",
         "terima kasih udah bantu aku",
         "Terima kasih udah menemani",
         "aku senang ketika mengobrol denganmu",
-        "Peduli Stunting, terima kasih ya",
+        "StunCare, terima kasih ya",
         "aku terbantu banget, makasih ya",
         "makasih udah semangatin aku",
         "makasih udah ngasih semangat aku",
         "makasih udah ngasih solusi",
-        "aku berterima kasih sama kamu Peduli Stunting udah mau membantu aku",
+        "aku berterima kasih sama kamu StunCare udah mau membantu aku",
         "Makasih banyak yah kamu mau bantuin aku",
         "aku berterima kasih udah dibantuin",
         "aku senang ngobrol sama kamu, makasih udah kasih aku solusi",
@@ -451,27 +467,28 @@
         "makasih ya udah mau nemenin aku",
         "terima kasih udah hibur aku",
         "makasih ya udah bantu, aku seneng banget",
-        "Peduli Stunting terima kasih ya aku senang ditemani kamu",
+        "StunCare terima kasih ya aku senang ditemani kamu",
         "Makasih ya aku terhibur",
-        "Peduli Stunting menghibur sekali",
+        "StunCare menghibur sekali",
         "terima kasih mblo"
       ],
       "responses": [
-        "Dengan senang hati :) Peduli Stunting selalu ada untuk membantu meningkatkan gizi balita",
-        "Iyaa dengan senang hati Peduli Stunting, Tetap semangat yaa",
-        "Peduli Stunting senang ketika bisa membantu kamu",
-        "Syukurlahh Peduli Stunting sangat senang bisa membantu kamu :)"
+        "Dengan senang hati :) StunCare selalu ada untuk membantu meningkatkan gizi balita",
+        "Iyaa dengan senang hati sahabat StunCare, Tetap semangat yaa",
+        "StunCare senang ketika bisa membantu kamu",
+        "Syukurlahh StunCare sangat senang bisa membantu kamu :)",
+        "Sama-sama! Senang bisa membantu.",
+        "Jika Anda memiliki pertanyaan atau butuh bantuan lainnya, jangan ragu untuk mengajukannya. StunCare di sini untuk membantu Anda."
       ],
       "context": [""]
     },
     {
-      "tag": "definisi",
+      "tag": "definisi_stunting",
       "patterns": [
         "Apa yang dimaksud dengan stunting?",
         "Stunting itu apa sih?",
         "Stunting adalah",
         "Stunting itu apa?",
-        "stunting itu apa",
         "stunting itu apa",
         "Stunting?",
         "Apa sih Stunting itu?",
@@ -487,7 +504,10 @@
         "kamu tau apa itu stunting?"
       ],
       "responses": [
-        "Stunting  merupakan  kondisi  gagal  tumbuh  pada  anak  balita  dikarenakan  kekurangan  gizi  pada balita.  Anak  yang  mengalami  masalah  makan  sejak  dini  akan  mengalami  pertumbuhan  terhambat, kesakitan,  bahkan  kematian."
+        "Stunting  merupakan  kondisi  gagal  tumbuh  pada  anak  balita  dikarenakan  kekurangan  gizi  pada balita.  Anak  yang  mengalami  masalah  makan  sejak  dini  akan  mengalami  pertumbuhan  terhambat, kesakitan,  bahkan  kematian.",
+        "Stunting adalah kondisi ketika pertumbuhan fisik dan perkembangan anak terhambat akibat kekurangan gizi kronis. Kondisi ini biasanya terjadi pada anak-anak yang mengalami kekurangan nutrisi penting, terutama pada 1.000 hari pertama kehidupan, yaitu mulai dari konsepsi hingga usia 2 tahun.",
+        "Stunting idalah kondisi pertumbuhan fisik anak terhambat, ditandai dengan tinggi badan anak yang lebih pendek dari standar pertumbuhan yang sesuai untuk usia dan jenis kelaminnya. Stunting biasanya terjadi pada masa awal kehidupan, terutama pada 1.000 hari pertama kehidupan, yang meliputi masa kehamilan dan dua tahun pertama setelah lahir.",
+        "Stunting adalah kondisi di mana anak memiliki tinggi badan yang lebih pendek dari standar pertumbuhan yang diharapkan untuk usia dan jenis kelaminnya. Hal ini menunjukkan bahwa pertumbuhan fisik anak terhambat atau tertunda. Stunting biasanya disebabkan oleh kekurangan gizi yang kronis dan berkelanjutan, terutama pada masa kritis pertumbuhan, seperti kehamilan dan dua tahun pertama kehidupan."
       ],
       "context": [""]
     },
@@ -506,7 +526,10 @@
         "Adakah ciri-ciri stunting?"
       ],
       "responses": [
-        "Beberapa ciri-ciri stunting yang umum terjadi adalah Pertumbuhan tulang pada anak yang tertunda, Berat badan rendah apabila dibandingkan dengan anak seusianya, Tinggi badan lebih pendek dari anak seusianya."
+        "Beberapa ciri-ciri stunting yang umum terjadi adalah Pertumbuhan tulang pada anak yang tertunda, Berat badan rendah apabila dibandingkan dengan anak seusianya, Tinggi badan lebih pendek dari anak seusianya.",
+        "Ciri-ciri stunting meliputi pertumbuhan fisik yang terhambat, berat badan rendah, perkembangan mental terhambat, keterlambatan perkembangan motorik, dan rentan terhadap infeksi. Penting untuk berkonsultasi dengan tenaga medis jika Anda memiliki kekhawatiran terkait pertumbuhan dan perkembangan anak.",
+        "Ciri-ciri stunting meliputi tinggi badan yang pendek, berat badan proporsional, pertumbuhan yang lambat, perkembangan motorik terlambat, keterlambatan perkembangan kognitif, rentan terhadap infeksi, dan kelemahan umum.",
+        "Ciri-ciri stunting meliputi tinggi badan yang pendek, berat badan proporsional, pertumbuhan yang lambat, keterlambatan perkembangan fisik dan kognitif, rentan terhadap infeksi, serta kelemahan dan kelesuan."
       ],
       "context": [""]
     },
@@ -525,7 +548,10 @@
         "Stunting apa penyebabnya ?"
       ],
       "responses": [
-        "Penyebab stunting dapat bervariasi, Penyebabnya utamanya adalah karena sang ibu tidak memiliki akses terhadap makanan sehat dan bergizi seperti makanan berprotein tinggi, sehingga menyebabkan buah hatinya turut kekurangan nutrisi. Selain itu, rendahnya asupan vitamin dan mineral yang dikonsumsi ibu juga bisa ikut memengaruhi kondisi malnutrisi janin."
+        "Penyebab stunting dapat bervariasi, Penyebabnya utamanya adalah karena sang ibu tidak memiliki akses terhadap makanan sehat dan bergizi seperti makanan berprotein tinggi, sehingga menyebabkan buah hatinya turut kekurangan nutrisi. Selain itu, rendahnya asupan vitamin dan mineral yang dikonsumsi ibu juga bisa ikut memengaruhi kondisi malnutrisi janin.",
+        "Penyebab stunting pada anak antara lain gizi buruk, kondisi ibu selama kehamilan, infeksi dan penyakit, air bersih dan sanitasi yang buruk, praktik pemberian makan yang tidak tepat, serta faktor sosial dan ekonomi seperti kemiskinan. Penting untuk meningkatkan akses terhadap gizi yang seimbang, perawatan kesehatan, pendidikan gizi, dan kondisi sanitasi yang baik guna mencegah dan mengurangi stunting.",
+        "Penyebab stunting meliputi gizi buruk, pemberian ASI yang tidak memadai, kesehatan ibu yang buruk, infeksi dan penyakit, lingkungan yang tidak sehat, faktor sosio-ekonomi rendah, dan faktor genetik.",
+        "Penyebab stunting meliputi kurangnya perhatian terhadap gizi pada 1.000 hari pertama kehidupan, kurangnya akses terhadap layanan kesehatan, praktik pemberian makan yang tidak tepat, gangguan pencernaan dan penyerapan nutrisi, kurangnya pendidikan dan kesadaran tentang gizi, serta konflik dan krisis."
       ],
       "context": [""]
     },
@@ -544,12 +570,15 @@
         "Cara mengetahui anak yang terkena penyakit stunting?"
       ],
       "responses": [
-        "Pertumbuhan dan perkembangan merupakan hal yang seharusnya selalu dipantau pada setiap kunjungan ke dokter. Pemantauan pertumbuhan anak biasanya dilakukan dengan memplot berat badan dan tinggi badan ke dalam suatu kurva pertumbuhan. Seorang anak dikatakan pendek  jika tinggi badan atau panjang badan menurut usia lebih dari dua standar deviasi di bawah median kurve standar pertumbuhan anak WHO."
+        "Pertumbuhan dan perkembangan merupakan hal yang seharusnya selalu dipantau pada setiap kunjungan ke dokter. Pemantauan pertumbuhan anak biasanya dilakukan dengan memplot berat badan dan tinggi badan ke dalam suatu kurva pertumbuhan. Seorang anak dikatakan pendek  jika tinggi badan atau panjang badan menurut usia lebih dari dua standar deviasi di bawah median kurve standar pertumbuhan anak WHO.",
+        "Untuk mengetahui apakah seorang anak terkena stunting, Anda dapat mengukur tinggi badannya dan membandingkannya dengan standar pertumbuhan yang ditetapkan. Perhatikan juga pertumbuhan berat badannya. Jika ada kekhawatiran, konsultasikan dengan dokter atau tenaga kesehatan anak, dan evaluasi pola makan anak untuk memastikan nutrisi yang cukup. Penting untuk mendapatkan diagnosis resmi dari tenaga kesehatan.",
+        "Cara mengetahui apakah seorang anak terkena stunting adalah dengan melakukan pengukuran tinggi badan anak dan membandingkannya dengan standar pertumbuhan yang sesuai. Konsultasi dengan tenaga kesehatan juga penting untuk mendapatkan diagnosis yang akurat.",
+        "Cara mengetahui anak terkena stunting adalah dengan melakukan pengukuran tinggi badan anak, membandingkannya dengan standar pertumbuhan yang sesuai, dan berkonsultasi dengan tenaga kesehatan."
       ],
       "context": [""]
     },
     {
-      "tag": "dampak",
+      "tag": "dampak_stunting",
       "patterns": [
         "Apa saja dampak stunting?",
         "Dampak stunting itu apa?",
@@ -565,7 +594,10 @@
         "danpak stunting"
       ],
       "responses": [
-        " Dampak stunting meliputi jangka panjang dan jangka pendek, Jangka pendek adalah terganggunya perkembangan otak,kecerdasan, gangguan pertumbuhan fisik, dan gangguan metabolisme dalam tubuh. Sedangkan dalam jangka panjang akibat buruk yang dapat ditimbulkan adalah menurunnya kemampuan kognitif dan prestasi belajar, menurunnya kekebalan tubuh sehingga mudah sakit, dan resiko tinggi untuk munculnya penyakit diabetes, kegemukan, penyakit jantung dan pembuluh darah, kanker, stroke, dan disabilitas pada usia tua."
+        "Dampak stunting meliputi jangka panjang dan jangka pendek, Jangka pendek adalah terganggunya perkembangan otak,kecerdasan, gangguan pertumbuhan fisik, dan gangguan metabolisme dalam tubuh. Sedangkan dalam jangka panjang akibat buruk yang dapat ditimbulkan adalah menurunnya kemampuan kognitif dan prestasi belajar, menurunnya kekebalan tubuh sehingga mudah sakit, dan resiko tinggi untuk munculnya penyakit diabetes, kegemukan, penyakit jantung dan pembuluh darah, kanker, stroke, dan disabilitas pada usia tua.",
+        "Stunting memiliki dampak signifikan terhadap pertumbuhan fisik, perkembangan kognitif, kekebalan tubuh, perkembangan sosial dan emosional anak. Hal ini dapat menyebabkan tinggi badan pendek, keterlambatan perkembangan otak, kerentanan terhadap penyakit, kesulitan sosial, dan mempengaruhi kehidupan jangka panjang anak. Pencegahan stunting melalui nutrisi yang baik dan perawatan kesehatan yang memadai sangat penting untuk mengurangi dampak negatif.",
+        "Stunting memiliki dampak yang meliputi pertumbuhan terhambat, keterlambatan perkembangan fisik dan kognitif, penurunan fungsi kekebalan tubuh, masalah kesehatan kronis, keterbatasan kesehatan umum, serta dampak sosial dan ekonomi.",
+        "Dampak stunting meliputi keterbatasan pertumbuhan fisik, keterlambatan perkembangan kognitif, kesehatan yang rentan, rendahnya produktivitas di masa dewasa, dan siklus kemiskinan berlanjut."
       ],
       "context": [""]
     },
@@ -588,12 +620,15 @@
         "faktor-faktor yang mempengaruhi stunting itu apa saja ?"
       ],
       "responses": [
-        "Stunting disebabkan oleh faktor lingkungan dan genetik. Faktor lingkungan yang berperan dalam menyebabkan stunting antara lain status gizi ibu, pola pemberian makan kepada anak, kebersihan lingkungan, dan angka kejadian infeksi pada anak. Faktor iingkungan merupakan aspek penting yang masih dapat diintervensi sehingga stunting dapat diatasi. Selain disebabkan oleh lingkungan, stunting juga dapat disebabkan oleh faktor genetik dan hormonal. Akan tetapi, sebagian besar stunting disebabkan oleh malnutrisi."
+        "Stunting disebabkan oleh faktor lingkungan dan genetik. Faktor lingkungan yang berperan dalam menyebabkan stunting antara lain status gizi ibu, pola pemberian makan kepada anak, kebersihan lingkungan, dan angka kejadian infeksi pada anak. Faktor iingkungan merupakan aspek penting yang masih dapat diintervensi sehingga stunting dapat diatasi. Selain disebabkan oleh lingkungan, stunting juga dapat disebabkan oleh faktor genetik dan hormonal. Akan tetapi, sebagian besar stunting disebabkan oleh malnutrisi.",
+        "Faktor yang memperburuk stunting meliputi kurang gizi, infeksi dan penyakit, kurangnya pelayanan kesehatan, faktor sosial dan ekonomi, serta kurangnya pendidikan dan pengetahuan tentang gizi. Kemiskinan, kurangnya akses terhadap makanan bergizi, sanitasi yang buruk, dan ketidaktahuan tentang pentingnya gizi yang baik juga berperan. Penting untuk meningkatkan akses terhadap gizi yang baik, pelayanan kesehatan yang memadai, dan pendidikan kesehatan untuk mengatasi faktor-faktor ini dan memperbaiki kondisi stunting.",
+        "Faktor-faktor yang memperburuk kondisi stunting meliputi kekurangan gizi, infeksi dan penyakit, lingkungan yang tidak sehat, kurangnya stimulasi pertumbuhan dan perkembangan, faktor sosio-ekonomi, dan faktor genetik dan bawaan.",
+        "Faktor yang dapat memperburuk kondisi stunting meliputi kurangnya akses terhadap pelayanan kesehatan, ketidakseimbangan makanan, gangguan mental dan emosional, serta faktor genetik dan bawaan."
       ],
       "context": [""]
     },
     {
-      "tag": "yang_harus_dilakuakan_seseorang_jika_disekitar_kita_terdapat_kasus_stunting",
+      "tag": "yang_harus_dilakukan_seseorang_jika_disekitar_kita_terdapat_kasus_stunting",
       "patterns": [
         "Apa yang harus dilakukan jika anak di sekitar kita mengalami stunting?",
         "Jika anak di sekitar kita mengalami stunting apa yang harus saya lakukan",
@@ -609,7 +644,10 @@
         "Anak disekitar kita mengalami stunting apa yang harus aku lakukan"
       ],
       "responses": [
-        "Penting bagi orangtua memberikan berbagai makanan yang bergizi tinggi agar mencegah kondisi si kecil semakin buruk dan gangguan pertumbuhan yang ia alami semakin parah. Oleh karena itu, sebenarnya hal ini dapat dicegah dengan cara memberikan nutrisi yang maksimal saat awal-awal kehidupannya, yaitu 1.000 hari pertama kehidupan."
+        "Penting bagi orangtua memberikan berbagai makanan yang bergizi tinggi agar mencegah kondisi si kecil semakin buruk dan gangguan pertumbuhan yang ia alami semakin parah. Oleh karena itu, sebenarnya hal ini dapat dicegah dengan cara memberikan nutrisi yang maksimal saat awal-awal kehidupannya, yaitu 1.000 hari pertama kehidupan.",
+        "Untuk mengatasi kasus stunting di sekitar kita, langkah-langkah yang dapat diambil meliputi peningkatan kesadaran dan edukasi, mendorong pencarian perawatan medis, memberikan informasi tentang pola makan sehat, kolaborasi dengan organisasi terkait, mendukung program holistik, dan memberikan dukungan emosional kepada keluarga yang terkena stunting. Dengan melibatkan berbagai upaya tersebut, diharapkan dapat mengurangi prevalensi stunting dan memberikan dampak positif bagi anak-anak yang terkena stunting.",
+        "Jika terdapat kasus stunting di sekitar kita, hal yang dapat dilakukan termasuk memberikan dukungan emosional, memberikan edukasi tentang gizi dan perawatan anak, mendukung akses ke layanan kesehatan, kolaborasi dengan pihak terkait, dan mendorong perubahan kebijakan.",
+        "Jika ada kasus stunting di sekitar Anda, langkah-langkah yang dapat dilakukan adalah meningkatkan kesadaran, membantu mencari bantuan medis, menyediakan dukungan nutrisi, ajak berpartisipasi dalam program pendidikan dan stimulasi, serta dukung program pencegahan yang ada."
       ],
       "context": [""]
     },
@@ -628,7 +666,10 @@
         "Diagnosis stunting itu bagaimana caranya?"
       ],
       "responses": [
-        "Pertumbuhan dan perkembangan merupakan hal yang seharusnya selalu dipantau pada setiap kunjungan ke dokter. Pemantauan pertumbuhan anak biasanya dilakukan dengan memplot berat badan dan tinggi badan ke dalam suatu kurva pertumbuhan. Seorang anak dikatakan pendek jika tinggi badan atau panjang badan menurut usia lebih dari dua standar deviasi di bawah median kurve standar pertumbuhan anak WHO."
+        "Pertumbuhan dan perkembangan merupakan hal yang seharusnya selalu dipantau pada setiap kunjungan ke dokter. Pemantauan pertumbuhan anak biasanya dilakukan dengan memplot berat badan dan tinggi badan ke dalam suatu kurva pertumbuhan. Seorang anak dikatakan pendek jika tinggi badan atau panjang badan menurut usia lebih dari dua standar deviasi di bawah median kurve standar pertumbuhan anak WHO.",
+        "Diagnosis stunting dilakukan oleh dokter atau tenaga kesehatan anak melalui pengukuran tinggi badan, pemantauan pertumbuhan, evaluasi riwayat kesehatan, dan kadang-kadang pemeriksaan tambahan. Dengan informasi ini, mereka dapat memberikan diagnosis dan menentukan langkah-langkah pengelolaan yang sesuai.",
+        "Diagnosis stunting dilakukan dengan mengukur tinggi badan anak dan membandingkannya dengan standar pertumbuhan yang sesuai untuk usia dan jenis kelaminnya. Biasanya, digunakan ukuran tinggi badan untuk usia (TB/U) atau indeks tinggi badan untuk usia (z-score) sebagai indikator utama. Jika tinggi badan anak berada di bawah persentil ke-2 standar pertumbuhan, maka dikategorikan sebagai stunting. Selain itu, penilaian perkembangan fisik dan perkembangan kognitif anak juga dapat digunakan sebagai pendukung dalam diagnosis stunting. Penting untuk melakukan pengukuran secara berkala untuk memantau pertumbuhan anak dan memastikan adanya intervensi yang diperlukan jika ditemukan tanda-tanda stunting.",
+        "Diagnosis stunting melibatkan pengukuran tinggi badan anak, membandingkannya dengan standar pertumbuhan yang sesuai, dan konsultasi dengan tenaga kesehatan untuk evaluasi dan diagnosis yang akurat."
       ],
       "context": [""]
     },
@@ -651,7 +692,9 @@
         "bagaimana cara cegah stunting"
       ],
       "responses": [
-        "Upaya tindakan pencegahan stunting atau perawakan pendek sebaiknya dimulai dari masa kehamilan. Bagi ibu hamil, upaya yang dapat dilakukan yaitu melakukan pemeriksaan kehamilan secara teratur, menghindari asap rokok dan memenuhi nutrisi yang baik selama masa kehamilan antara lain dengan menu sehat seimbang, asupan zat besi, asam folat, yodium yang cukup."
+        "Upaya tindakan pencegahan stunting atau perawakan pendek sebaiknya dimulai dari masa kehamilan. Bagi ibu hamil, upaya yang dapat dilakukan yaitu melakukan pemeriksaan kehamilan secara teratur, menghindari asap rokok dan memenuhi nutrisi yang baik selama masa kehamilan antara lain dengan menu sehat seimbang, asupan zat besi, asam folat, yodium yang cukup.",
+        "Untuk mencegah stunting, berikan ASI eksklusif selama 6 bulan pertama, perkenalkan makanan pendamping ASI secara bertahap, berikan makanan yang seimbang dan kaya nutrisi, praktikkan pemberian makan yang sehat, perhatikan kebersihan lingkungan, rutin pantau pertumbuhan anak, tingkatkan edukasi dan kesadaran, dan pastikan akses ke pelayanan kesehatan yang memadai.",
+        "Mencegah stunting melibatkan pemberian ASI eksklusif, pemberian makanan pendamping ASI yang seimbang, makanan keluarga yang sehat, perawatan kesehatan ibu hamil, kebersihan dan sanitasi yang baik, edukasi dan kesadaran, akses ke layanan kesehatan, dan pendekatan lintas sektor."
       ],
       "context": [""]
     },
@@ -674,7 +717,9 @@
         "solusi stunting"
       ],
       "responses": [
-        "Untuk memastikan pertumbuhan sesuai dengan acuan, bawalah anak secara teratur ke layanan kesehatan. Bila curiga ada kelainan pertumbuhan, segera bawa anak ke dokter. Pastikan setiap kali anak diukur berat, panjang/tinggi badan, dan lingkar kepalanya, data diplot di kurva pertumbuhan yang sesuai agar dapat dinilai keadaannya saat ini. Bisa saja anak memiliki pertumbuhan normal sampai usia tertentu, tetapi terjadi gangguan setelahnya."
+        "Untuk memastikan pertumbuhan sesuai dengan acuan, bawalah anak secara teratur ke layanan kesehatan. Bila curiga ada kelainan pertumbuhan, segera bawa anak ke dokter. Pastikan setiap kali anak diukur berat, panjang/tinggi badan, dan lingkar kepalanya, data diplot di kurva pertumbuhan yang sesuai agar dapat dinilai keadaannya saat ini. Bisa saja anak memiliki pertumbuhan normal sampai usia tertentu, tetapi terjadi gangguan setelahnya.",
+        "Solusi untuk mengatasi stunting meliputi: gizi yang baik, ASI eksklusif, makanan pendamping ASI yang tepat, praktik pemberian makan yang sehat, akses ke perawatan kesehatan, perbaikan sanitasi, pendidikan dan kesadaran, serta intervensi komprehensif.",
+        "Solusi mengatasi stunting meliputi pemberian ASI eksklusif, akses terhadap makanan bergizi, edukasi gizi dan perawatan anak, perbaikan sanitasi, intervensi gizi terintegrasi, akses ke layanan kesehatan, pendidikan dan pemberdayaan masyarakat, serta pendekatan lintas sektor."
       ],
       "context": [""]
     },
@@ -694,7 +739,9 @@
         "penanganan stunting apa aja"
       ],
      "responses": [
-      "Penanganan stunting dapat meliputi pengobatan penyakit penyebabnya, perbaikan nutrisi, pemberian suplemen, serta penerapan pola hidup bersih dan sehat."
+      "Penanganan stunting dapat meliputi pengobatan penyakit penyebabnya, perbaikan nutrisi, pemberian suplemen, serta penerapan pola hidup bersih dan sehat.",
+      "Penanganan stunting melibatkan aspek-aspek seperti nutrisi yang seimbang, intervensi gizi, pemantauan pertumbuhan, pendidikan dan konseling kepada orang tua, stimulasi dan pendidikan anak, perawatan kesehatan yang komprehensif, perbaikan sanitasi dan lingkungan, serta kolaborasi lintas sektor. Dengan pendekatan yang holistik, diharapkan stunting dapat ditangani dengan efektif untuk mencapai pertumbuhan dan perkembangan optimal pada anak.",
+      "Penanganan stunting melibatkan pemantauan dan evaluasi, pemberian nutrisi yang adekuat, peningkatan status gizi, stimulasi pertumbuhan dan perkembangan, edukasi, pendekatan lintas sektor, dan pelayanan kesehatan dan pemantauan jangka panjang."
       ],
       "context": [""]
     },
@@ -713,7 +760,9 @@
         "mencegah stunting dengan cara?"
       ],
       "responses": [
-        "Upaya tindakan antisipasi perawakan pendek sebaiknya dimulai dari masa kehamilan. Bagi ibu hamil, upaya yang dapat dilakukan yaitu melakukan pemeriksaan kehamilan secara teratur, menghindari asap rokok dan memenuhi nutrisi yang baik selama masa kehamilan antara lain dengan menu sehat seimbang, asupan zat besi, asam folat, yodium yang cukup."
+        "Upaya tindakan antisipasi perawakan pendek sebaiknya dimulai dari masa kehamilan. Bagi ibu hamil, upaya yang dapat dilakukan yaitu melakukan pemeriksaan kehamilan secara teratur, menghindari asap rokok dan memenuhi nutrisi yang baik selama masa kehamilan antara lain dengan menu sehat seimbang, asupan zat besi, asam folat, yodium yang cukup.",
+        "Untuk mencegah stunting, berikan ASI eksklusif pada bayi selama 6 bulan pertama, perkenalkan makanan pendamping ASI secara bertahap, pastikan nutrisi yang seimbang, berikan perawatan kesehatan yang adekuat, jaga kebersihan dan sanitasi, tingkatkan pendidikan dan kesadaran, serta akses ke perawatan kesehatan yang baik.",
+        "Cara mencegah stunting meliputi memberikan ASI eksklusif selama 6 bulan pertama, memperkenalkan makanan pendamping ASI yang seimbang, memberikan nutrisi yang seimbang dari berbagai kelompok makanan, memastikan perawatan kesehatan yang adekuat, menjaga kebersihan dan sanitasi lingkungan, meningkatkan pendidikan dan kesadaran tentang gizi, serta memastikan akses yang mudah ke perawatan kesehatan. Dengan mengimplementasikan langkah-langkah ini, kita dapat mencegah stunting dan mendukung pertumbuhan serta perkembangan anak dengan baik."
       ],
       "context": [""]
     },
@@ -735,7 +784,9 @@
         "tanda-tanda gizi yang baik seperti apa?"
       ],
       "responses": [
-        "gizi baik ditandai dengan kondisi status gizi yang berada dalam keadaan baik alias normal. Anak yang memiliki status gizi yang normal, tentu saja akan mempunyai indeks massa tubuh atau IMT (dalam bahasa Inggris dikenal dengan istilah Body Mass Index atau BMI) yang normal pula."
+        "gizi baik ditandai dengan kondisi status gizi yang berada dalam keadaan baik alias normal. Anak yang memiliki status gizi yang normal, tentu saja akan mempunyai indeks massa tubuh atau IMT (dalam bahasa Inggris dikenal dengan istilah Body Mass Index atau BMI) yang normal pula.",
+        "Gizi baik pada anak yang mengalami stunting termasuk kesehatan yang baik, aktivitas fisik normal, pertumbuhan berat badan yang konsisten, dan perkembangan kognitif yang sesuai. Penting untuk mencatat bahwa tanda-tanda ini hanya memberikan indikasi kemungkinan adanya gizi yang baik, dan diagnosis akurat tetap perlu dilakukan oleh dokter atau tenaga kesehatan anak.",
+        "Tanda-tanda gizi baik pada anak yang mengalami stunting termasuk kesehatan yang baik, aktivitas fisik normal, pertumbuhan berat badan yang sejalan, dan perkembangan kognitif yang normal."
       ],
       "context": [""]
     },
@@ -762,7 +813,9 @@
         "mengatur pola makan"
       ],
       "responses": [
-        "Pola makan yang baik dikenal dengan istilah “Isi Piringku” dengan gizi seimbang perlu diperkenalkan dan dibiasakan dalam kehidupan sehari-hari. Bagi anak-anak dalam masa pertumbuhan, memperbanyak sumber protein sangat dianjurkan, di samping tetap membiasakan mengonsumsi buah dan sayur. Dalam satu porsi makan, setengah piring diisi oleh sayur dan buah, setengahnya lagi diisi dengan sumber protein (baik nabati maupun hewani) dengan proporsi lebih banyak daripada karbohidrat."
+        "Pola makan yang baik dikenal dengan istilah “Isi Piringku” dengan gizi seimbang perlu diperkenalkan dan dibiasakan dalam kehidupan sehari-hari. Bagi anak-anak dalam masa pertumbuhan, memperbanyak sumber protein sangat dianjurkan, di samping tetap membiasakan mengonsumsi buah dan sayur. Dalam satu porsi makan, setengah piring diisi oleh sayur dan buah, setengahnya lagi diisi dengan sumber protein (baik nabati maupun hewani) dengan proporsi lebih banyak daripada karbohidrat.",
+        "Menjaga pola makan yang baik pada anak yang mengalami stunting, penting untuk memberikan makanan yang seimbang dan beragam, dengan porsi yang cukup, serta makan dalam jadwal yang teratur. Hindari makanan tinggi gula dan lemak jenuh, dan libatkan anak dalam pemilihan dan persiapan makanan, serta perhatikan kebutuhan nutrisi tambahan jika diperlukan.",
+        "Untuk menjaga pola makan yang baik pada anak yang mengalami stunting, berikan makanan seimbang, perhatikan porsi makan yang cukup, makan dalam jadwal yang teratur, hindari makanan tinggi gula dan lemak jenuh, libatkan anak dalam pemilihan dan persiapan makanan, pastikan minum air yang cukup, dan lakukan pemantauan secara rutin."
       ],
       "context": [""]
     },
@@ -790,7 +843,9 @@
         "pola makan sehat"
       ],
       "responses": [
-        "Pola makan sehat dimulai dengan mengkonsumsi makanan sesuai dengan kebutuhan gizi harian. Asupan gizi dan kalori yang dibutuhkan oleh setiap orang cenderung bervariasi, tergantung usia, jenis kelamin, gaya hidup, kegiatan fisik, tempat tinggal, suhu udara, dan sebagainya. Akan tetapi, pada dasarnya jumlah asupan kalori seseorang harus disesuaikan dengan energi yang dikeluarkan oleh tubuh. Selain menjaga asupan kalori, tubuh juga membutuhkan nutrisi yang lengkap untuk tetap sehat."
+        "Pola makan sehat dimulai dengan mengkonsumsi makanan sesuai dengan kebutuhan gizi harian. Asupan gizi dan kalori yang dibutuhkan oleh setiap orang cenderung bervariasi, tergantung usia, jenis kelamin, gaya hidup, kegiatan fisik, tempat tinggal, suhu udara, dan sebagainya. Akan tetapi, pada dasarnya jumlah asupan kalori seseorang harus disesuaikan dengan energi yang dikeluarkan oleh tubuh. Selain menjaga asupan kalori, tubuh juga membutuhkan nutrisi yang lengkap untuk tetap sehat.",
+        "Pola makan sehat sangat penting untuk anak yang mengalami stunting karena dapat memberikan nutrisi yang diperlukan untuk pertumbuhan dan perkembangan mereka. Pola makan sehat memenuhi kebutuhan gizi, mendukung pertumbuhan tulang dan otot, meningkatkan daya tahan tubuh, memperbaiki perkembangan kognitif, menjaga berat badan sehat, dan menanamkan kebiasaan makan yang baik.",
+        "Pola makan sehat sangat penting untuk mencegah dan mengatasi stunting. Pola makan sehat meningkatkan asupan nutrisi, mendukung pertumbuhan dan perkembangan optimal, meningkatkan daya tahan tubuh, mencegah kekurangan gizi, membentuk kebiasaan makan sehat, dan meningkatkan kualitas hidup anak yang mengalami stunting."
       ],
       "context": [""]
     },
@@ -815,7 +870,31 @@
         "pola makan yang baik membantu menghindari stunting"
       ],
       "responses": [
-        "Pola makan mempengaruhi kualitas gizi makanan sehingga menjadi salah satu penyebab stunting pada anak. Anda perlu membiasakan gizi seimbang dalam makanan anak sehari-hari. Ada beberapa cara untuk mencapai gizi seimbang yakni perbanyak sumber protein serta konsumsi sayuran dan buah. Dalam satu piring, setengahnya dapat diisi sumber protein baik hewani maupun nabati. Buat proporsinya lebih banyak dibanding karbohidrat. Sisanya Anda dapat mengisinya dengan sayur dan buah."
+        "Pola makan mempengaruhi kualitas gizi makanan sehingga menjadi salah satu penyebab stunting pada anak. Anda perlu membiasakan gizi seimbang dalam makanan anak sehari-hari. Ada beberapa cara untuk mencapai gizi seimbang yakni perbanyak sumber protein serta konsumsi sayuran dan buah. Dalam satu piring, setengahnya dapat diisi sumber protein baik hewani maupun nabati. Buat proporsinya lebih banyak dibanding karbohidrat. Sisanya Anda dapat mengisinya dengan sayur dan buah.",
+        "Untuk mengatur pola makan yang baik dan menjaga kesehatan gizi, pilih makanan seimbang dari berbagai kelompok makanan, perhatikan ukuran porsi, makan secara teratur, jaga kebersihan makanan, minum cukup air, hindari makanan olahan dan tinggi gula, tambahkan buah, sayur, biji-bijian, dan protein sehat dalam makanan sehari-hari, dan perhatikan juga kualitas tidur dan aktivitas fisik.",
+        "Untuk mengatur pola makan yang baik dan menjaga kesehatan gizi pada anak yang mengalami stunting, berikan makanan seimbang dari berbagai kelompok makanan, perhatikan porsi makan yang cukup, makan dalam jadwal yang teratur, hindari makanan tinggi gula dan lemak jenuh, libatkan anak dalam pemilihan dan persiapan makanan, pastikan minum air yang cukup, dan lakukan pemantauan dan evaluasi secara rutin."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "pengaruh_stunting",
+      "patterns": [
+        "pengaruh stunting",
+        "pengaruh stunting pada anak",
+        "apa pengaruh stunting pada anak?",
+        "apakah stunting mempengaruhi perkembangan anak",
+        "bagaimana stunting dapat mempengaruhi perkembangan",
+        "kenapa stunting berpengaruh terhadap perkembangan anak",
+        "hubungan stunting terhadap perkembangan",
+        "pengaruh stunting terhadap anak",
+        "perkembangan anak dipengaruhi stunting?",
+        "stunting mempengaruhi perkembangan anak?",
+        "pengaruh stunting terhadap perkembangan anak"
+      ],
+      "responses": [
+        "Stunting memiliki pengaruh yang signifikan, termasuk gangguan pertumbuhan fisik, keterlambatan perkembangan kognitif, penurunan daya tahan tubuh, gangguan perkembangan motorik, gangguan perkembangan sosial dan emosional, serta dampak jangka panjang pada kesehatan dan kualitas hidup anak.",
+        "Stunting memiliki dampak yang meliputi gangguan pertumbuhan fisik, keterlambatan perkembangan kognitif dan bahasa, gangguan organ dalam, rendahnya produktivitas di masa dewasa, serta dampak sosial dan ekonomi.",
+        "Stunting memiliki pengaruh yang meliputi gangguan perkembangan motorik, masalah kesehatan mental, gangguan reproduksi, keterbatasan kesehatan umum, dan keterbatasan dalam kualitas hidup."
       ],
       "context": [""]
     }
