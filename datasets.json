@@ -1,8 +1,58 @@
 {
   "intents": [
     {
-      "tag": "greeting",
+      "tag": "salam",
       "patterns": [
+        "hay",
+        "yo",
+        "hai bro",
+        "hallo teman",
+        "halo semuanya",
+        "selamat pagi",
+        "selamat siang",
+        "selamat sore",
+        "selamat malam",
+        "wassup",
+        "apa kabar",
+        "hallo semua",
+        "hi there",
+        "hey kamu",
+        "hey hey",
+        "hai sahabat",
+        "hallo dunia",
+        "greetings",
+        "apa kabar semuanya",
+        "halo teman-teman",
+        "hai kawan",
+        "hay sobat",
+        "halo semua orang",
+        "hai semua",
+        "hai teman-teman",
+        "halo semuanya",
+        "hai sobat",
+        "hay kawan",
+        "hallo teman sejati",
+        "hai teman",
+        "halo my friend",
+        "yo bro",
+        "halo kak",
+        "halo mbak",
+        "hallo mas",
+        "hey teman",
+        "hai adik",
+        "hai kakak",
+        "halo saudara",
+        "hello there",
+        "hey guys",
+        "hai semuanya",
+        "hi semua",
+        "yo semua",
+        "halo teman-teman sekalian",
+        "hai teman sebangsa dan setanah air",
+        "halo sobat-sobat",
+        "hello my dear friend",
+        "hai sobat seperjuangan",
+        "halo sahabat tercinta",
         "hallo",
         "hello",
         "helo",
@@ -34,25 +84,29 @@
         "woi",
         "haii",
         "coy",
-        "swift",
+        "stunting",
         "selamat pagi lur",
-        "halo peduli stunting"
+        "halo stuncare"
       ],
       "responses": [
         "Hai! StunCare disini, ada yang bisa dibantu? kami akan memberikan informasi seputar stunting. Adakah yg ingin kamu tanyakan?",
         "Halo! Saya StunCare, saya akan memberikan informasi seputar stunting. Adakah yg ingin kamu tanyakan?",
         "Halo! kami dari StunCare, kami akan memberikan informasi seputar stunting. Adakah yg ingin kamu tanyakan?",
-        "Helo! Ini StunCare. Lagi kenapa nih? kami akan memberikan informasi seputar stunting. Adakah yg ingin kamu tanyakan?",
+        "Helo! Ini StunCare. kami akan memberikan informasi seputar stunting. Adakah yg ingin kamu tanyakan?",
         "Hai!, StunCare disini ya, perlu bantuan apa nih? kami akan memberikan informasi seputar stunting. Adakah yg ingin kamu tanyakan?",
-        "hai!, StunCare ada disini, ada swfitcare jangan lari wkwk, bercanda lho. kami akan memberikan informasi seputar stunting. adakah yg ingin kamu tanyakan?",
-        "Halo! Saya adalah StunCare, siap membantu Anda dengan pertanyaan atau masalah seputar stunting. Silakan beri tahu saya apa yang dapat saya bantu!"
+        "Halo! Saya adalah StunCare, siap membantu Anda dengan pertanyaan atau masalah seputar stunting. Silakan beri tahu saya apa yang dapat saya bantu!",
+        "Halo! Saya StunCare, spesialis dalam topik stunting. Ada yang ingin kamu ketahui atau diskusikan terkait stunting?",
+        "Hai! Saya StunCare, di sini untuk membahas topik stunting. Apakah ada pertanyaan atau topik tertentu yang ingin kamu bahas?",
+        "Halo! Saya StunCare, siap membantu kamu dengan topik stunting. Apa yang ingin kamu ketahui atau diskusikan tentang stunting?",
+        "Hai! StunCare di sini, ahli dalam hal stunting. Jangan ragu untuk mengajukan pertanyaan atau berbagi informasi terkait stunting.",
+        "Halo! Saya StunCare, khusus dalam membahas stunting. Ada yang ingin kamu tanyakan atau diskusikan seputar stunting?",
+        "Hai! Saya StunCare, ahli dalam topik stunting. Saya siap membantu dengan informasi atau saran terkait stunting, jadi jangan sungkan untuk bertanya!"
       ],
       "context": [""]
     },
     {
       "tag": "StunCare",
       "patterns": [
-        "Apa itu StunCare?",
         "Apa itu StunCare?",
         "Siapa StunCare?",
         "StunCare itu apaan?",
@@ -80,17 +134,20 @@
         "coba kamu bisa bantu aku dalam hal apa",
         "bantu aku dalam hal apa",
         "hal apa yang bisa kamu bantu",
-        "PStuntCare bisa bantu apa",
+        "StunCare bisa bantu apa",
         "hal apa aja sih yang kamu bantu",
         "tugas kamu apa sih",
         "katanya bisa bantu, bantu apa coba",
-        "StunCare artinya apa"
+        "StunCare artinya apa",
+        "Apa fungsi StunCare?",
+        "StunCare itu apa sebenarnya?",
+        "Apakah kamu manusia atau bot?"
       ],
       "responses": [
-        "StunCare adalah aplikasi chatbot yang dibuat khusus untuk memberikan informasi mengenai Kesehatan Gizi pada anak balita.",
-        "StunCare itu aplikasi berupa chatbot sebagai solusi baru yang dibuat khusus untuk memberikan informasi seputar Kesehatan Gizi pada anak balita.",
-        "StunCare itu aplikasi berupa chatbot bisa memberikan solusi yang dibuat untuk memberikan informasi mengenai Kesehatan Gizi pada anak balita.",
-        "StunCare itu aplikasi berupa chatbot bisa membantu dan memberikan informasi tetang kesehatan gizi pada anak balita",
+        "StunCare adalah aplikasi chatbot yang dibuat khusus untuk memberikan informasi mengenai Stunting pada anak balita.",
+        "StunCare itu aplikasi berupa chatbot sebagai solusi baru yang dibuat khusus untuk memberikan informasi seputar Stunting pada anak balita.",
+        "StunCare itu aplikasi berupa chatbot bisa memberikan solusi yang dibuat untuk memberikan informasi mengenai Stunting pada anak balita.",
+        "StunCare itu aplikasi berupa chatbot bisa membantu dan memberikan informasi tetang Stunting pada anak balita",
         "Saya adalah StunCare, sebuah program komputer yang dirancang untuk memberikan informasi mengenai stunting. Jadi, jangan ragu untuk bertanya atau berbagi apa pun dengan StunCare!"
       ],
       "context": [""]
@@ -134,7 +191,17 @@
           "Ada yang bisa StunCare bantu?",
           "Butuh bantuan apa nih dari StunCare?",
           "Iyaa! StunCare di sini untuk membantu Anda",
-          "Apakah ada sesuatu yang bisa StunCare bantu?"
+          "Apakah ada sesuatu yang bisa StunCare bantu?",
+          "Tentu, saya akan dengan senang hati membantu kamu.",
+          "Ya, saya siap membantu. Apa yang bisa saya bantu?",
+          "Tentu, bagaimana saya bisa membantumu?",
+          "Tidak masalah, aku ada di sini untuk membantumu.",
+          "Tentu saja, apa yang perlu kamu bantu?",
+          "Tentu, ceritakan apa yang sedang kamu hadapi, dan saya akan mencoba membantu sebisa mungkin.",
+          "Ya, saya di sini untuk membantumu. Ada yang spesifik yang ingin kamu tanyakan atau diskusikan?",
+          "Tentu, beri tahu saya apa yang kamu butuhkan, dan saya akan berusaha membantu dengan yang terbaik.",
+          "Tentu, ceritakan apa yang kamu butuhkan, dan saya akan berusaha memberikan bantuan yang diperlukan.",
+          "Ya, saya ada di sini untuk memberikan bantuan. Mohon jelaskan apa yang perlu kamu bantu."
         ],
         "context": [""]
     },
@@ -152,7 +219,6 @@
           "aku bangga sama diri aku sendiri",
           "aku kepo nih, kamu lagi apa?",
           "aku kepo, kamu lagi ngapain StunCare?",
-          "StunCare lagi ngapain?",
           "StunCare lagi ngapain?",
           "lagi apa nih?",
           "StunCare lagi ngapain?",
@@ -174,7 +240,6 @@
           "sedang lakukan apa",
           "sedang apa dan sama siapa",
           "StunCare lagi ngapain?",
-          "sedang melakukan apa",
           "sedang melakukan apa"
         ],
         "responses": [
@@ -182,7 +247,17 @@
           "StunCare lagi ngobrol sama kamu doang nih",
           "StunCare lagi baca chat kamu nih hehe",
           "StunCare lagi nungguin kamu ngetik aja nih",
-          "StunCare mau bantu kamu"
+          "StunCare mau bantu kamu",
+          "StunCare senang bisa berkomunikasi denganmu!",
+          "StunCare siap menjawab pertanyaan atau membantu masalahmu.",
+          "StunCare ada di sini untuk memberikan dukungan dan informasi yang kamu butuhkan.",
+          "StunCare ingin tahu apa yang bisa dilakukan untukmu.",
+          "StunCare ingin memberikan solusi terbaik untukmu.",
+          "StunCare siap mendengarkan dan memberikan saran yang berguna.",
+          "StunCare hadir untuk menjadi temanmu dalam perbincangan ini.",
+          "StunCare berharap bisa memberikan informasi yang bermanfaat untukmu.",
+          "StunCare hadir untuk mendukungmu dalam menjawab pertanyaan atau masalah yang kamu hadapi.",
+          "StunCare ingin membantu kamu merasa lebih baik dan mendapatkan jawaban yang kamu cari."
         ],
         "context": [""]
     },
@@ -219,15 +294,26 @@
           "StunCare, aku ada pertanyaan buat kamu",
           "aku punya pertanyaan",
           "aku mau bertanya",
-          "aku akan nanya sama kamu"
+          "aku akan nanya sama kamu",
+          "kamu nanyeaaa ?",
+          "Aku ingin bertanya",
+          "Aku mau tanya, boleh?",
+          "Bisa aku nanya?",
+          "Aku ingin mengajukan pertanyaan",
+          "Boleh aku tanya ya?"
         ],
         "responses": [
           "iya sahabat StunCare, mau tanya apa?",
-          "mau tanyaa apaan sahabat StunCare?",
-          "tanyain aja apa masalah kamu. StunCare bisa bantu masalah kamu",
+          "Mau tanyaa apaan sahabat StunCare?",
+          "Tanyain aja apa masalah kamu. StunCare bisa bantu masalah kamu",
           "Tentu, silakan ajukan pertanyaan apa pun yang Anda miliki",
           "StunCare akan berusaha memberikan jawaban yang terbaik dan membantu Anda sebisa mungkin",
-          "apa yang ingin Anda tanyakan?"
+          "Apa yang ingin Anda tanyakan?",
+          "Tentu, apa yang ingin kamu tanyakan?",
+          "Silakan ajukan pertanyaanmu, Stuncare siap membantu",
+          "Apa yang ingin kamu tanyakan? Stuncare akan berusaha memberikan jawaban terbaik",
+          "Ya, silakan ajukan pertanyaan apa pun yang kamu miliki",
+          "StunCare akan berusaha memberikan bantuan dan jawaban yang kamu butuhkan"
         ],
         "context": [""]
     },
@@ -236,10 +322,15 @@
       "patterns": [""],
       "responses": [
         "Maaf, StunCare tidak mengerti apa yang anda maksud, silahkan tulis kembali",
-        "StunCare tidak mengerti apa yang anda katakan, silahkan tuliskan kembali maksud anda !!!",
+        "StunCare tidak mengerti apa yang anda katakan, silahkan tuliskan kembali maksud pertanyaan anda!",
         "Maaf, StunCare tidak memahami pertanyaan Anda. Silakan ajukan pertanyaan yang lebih spesifik.",
         "Maaf, sepertinya StunCare tidak memahami pernyataan yang Anda ajukan.",
-        "Bisakah Anda menjelaskannya dengan lebih detail atau mengajukan pertanyaan yang lebih spesifik? StunCare akan berusaha sebaik mungkin untuk membantu Anda."
+        "Bisakah Anda menjelaskannya dengan lebih detail atau mengajukan pertanyaan yang lebih spesifik? StunCare akan berusaha sebaik mungkin untuk membantu Anda.",
+        "Mohon maaf, StunCare tidak dapat memahami maksud yang Anda sampaikan. Silakan tulis kembali dengan kata-kata yang berbeda.",
+        "StunCare tidak dapat mengerti apa yang Anda katakan. Mohon tuliskan kembali pertanyaan Anda dengan cara yang lebih jelas.",
+        "Maaf, StunCare tidak dapat memahami pertanyaan Anda. Mohon ajukan pertanyaan yang lebih spesifik agar dapat membantu dengan lebih baik.",
+        "Maaf, sepertinya StunCare tidak mengerti apa yang Anda sampaikan. Apakah Anda bisa menjelaskannya dengan lebih detail atau memberikan pertanyaan yang lebih spesifik?",
+        "Apakah Anda bisa memberikan penjelasan yang lebih rinci atau mengajukan pertanyaan yang lebih spesifik? StunCare akan berusaha semaksimal mungkin untuk membantu Anda."
       ],
       "context": [""]
     },
@@ -286,22 +377,57 @@
         ],
         "responses": [
           "Terimakasih, StunCare senang membantu kamu ",
-          "Wah, senangnya StunCare bisa bantu kamu",
-          "Syukurlah kalau StunCare bisa berguna buat kamu",
           "Terima kasih atas pujian Anda!",
-          "StunCare senang dapat membantu dan memberikan respons yang bermanfaat."
+          "StunCare senang dapat membantu dan memberikan respons yang bermanfaat.",
+          "Terima kasih, StunCare senang dapat memberikan bantuan kepada kamu.",
+          "Wow, StunCare senang bisa membantu kamu.",
+          "Sangat menggembirakan jika StunCare dapat berguna bagi kamu.",
+          "Terima kasih atas apresiasi Anda!",
+          "StunCare merasa senang dapat membantu dan memberikan tanggapan yang bermanfaat."
         ],
         "context": [""]
     },
     {
         "tag": "kritik",
         "patterns": [
+          "tidak bagus",
+          "aplikasi yang kurang baik",
+          "sangat buruk",
+          "tidak baik",
+          "sulit dipahami sekali",
+          "saya tidak tahu ini aplikasi untuk apa",
+          "sangat jeleknya aplikasinya",
+          "sangat tidak masuk akal",
+          "tidak jelas aplikasinya",
+          "aplikasi yang buruk",
+          "stuncare kurang bagus",
+          "aplikasi yang buruk dan tidak berguna, harus dihapus",
+          "anda membosankan",
+          "saya merasa bosan saat berbicara dengan anda",
+          "aplikasinya tidak jelas",
+          "sangat buruk aplikasinya",
+          "aplikasi yang tidak berguna",
+          "aplikasi yang tidak memiliki kualitas",
+          "tidak memiliki kualitas, buruk, dan tidak relevan",
+          "aplikasinya tidak relevan",
+          "aplikasinya memberikan tanggapan yang aneh terhadap apa yang saya katakan",
+          "tidak begitu bagus aplikasinya",
+          "stuncare sangat buruk menurut anda",
+          "aplikasinya tidak dapat mendeteksi kalimat yang saya ketikkan",
+          "buruk sekali aplikasinya",
+          "aplikasi yang buruk, aneh, dan tidak berharga",
+          "sangat buruk, benar-benar tidak berguna aplikasinya",
+          "saya tidak suka dengan aplikasinya",
+          "saya bosan berbicara dengan stuncare",
+          "tidak tahu apa yang dibuat oleh aplikasi ini, sangat tidak jelas",
+          "sangat tidak jelas aplikasinya",
+          "anda tidak begitu baik",
           "jelek",
           "aplikasi jelek",
           "buruk sekali",
           "bad",
           "gajelas banget",
-          "gj apknya",
+          "aplikasi apa si ini",
           "aplikasinya jelek banget sih",
           "gaje banget lu",
           "gak jelas apknya",
@@ -330,56 +456,45 @@
           "kamu kurang bagus tau"
         ],
         "responses": [
-          "Maafkan StunCare tidak bisa membantu kamu :(",
-          "Maafin StunCare yaa gak bisa bantuin kamu :(",
-          "StunCare sedih, huhu tapi gapapa makasih yaa udah bertanya, maaf yaa gabisa bantuin masalah kamu :(",
-          "Maaf ya, StunCare masih jauh dari kata sempurna",
-          "Maaf, StunCare akan berusaha memberikan informasi yang berguna.",
-          "StunCare akan dengan senang hati membantu meskipun belum sesuai dengan keinginanmu."
+          "Mohon maaf, StunCare tidak dapat memberikan bantuan kepada kamu :(",
+          "Maaf ya, StunCare tidak bisa membantumu :(",
+          "StunCare merasa sedih, huhu, tapi tetap terima kasih sudah bertanya. Maaf ya, StunCare tidak bisa membantu dengan masalahmu :(",
+          "Mohon maaf, StunCare masih jauh dari kesempurnaan.",
+          "Maaf, StunCare akan berusaha memberikan informasi yang bermanfaat.",
+          "StunCare akan dengan senang hati membantu meskipun belum sesuai dengan harapanmu."
         ],
         "context": [""]
     },
     {
       "tag": "pencipta_StunCare",
       "patterns": [
-        "Siapa pembuatmu?",
-        "StunCare, yang buat kamu siapa sih?",
+        "Siapa yang menciptakan StunCare?",
+        "StunCare, siapa yang membuatmu sebenarnya?",
         "Siapa penciptamu, StunCare?",
-        "Yang buat kamu siapa?",
-        "yang buat kamu sapa",
-        "siapa sih yang buat kamu",
-        "StunCare kasih tau dong yang buat kamu siapa",
-        "kasih tau aku dong kamu diciptakan oleh siapa",
-        "pencipta Stuncare",
-        "yang ciptain StunCare",
-        "siapa saja pencipta StunCare",
-        "yang nyiptain kamu siapa",
-        "lo diciptakan oleh siapa",
-        "siapa si yang buat lo",
-        "siapa yang buat kamu",
-        "siapa yang buat aplikasi StunCare",
-        "pembuat StunCare siapa",
-        "pencipta StunCare siapa",
-        "dari mana asal usul StunCare",
-        "asal usul dari aplikasi StunCare",
-        "spill yang buat kamu",
-        "spill penciptamu",
-        "siapa pencipta lo",
-        "aplikasi temuan siapa nih",
-        "StunCare ditemukan oleh siapa",
-        "siapa penemu StunCare",
-        "dibuat oleh siapakah StunCare?",
-        "aku kepo, yang buat kamu siapa",
-        "kamu tuh diciptakan oleh siapa",
-        "siapa yang menciptakan StunCare",
-        "yang membuat aplikasi ini siapa"
+        "Dibuat oleh siapa StunCare?",
+        "Siapa yang menciptakanmu?",
+        "Siapa yang menjadi pencipta StunCare?",
+        "Tolong beritahu siapa yang membuat StunCare?",
+        "Bolehkah kamu memberitahu saya siapa yang menciptakanmu?",
+        "Siapa orang di balik StunCare?",
+        "Siapa yang bertanggung jawab atas pembuatan StunCare?",
+        "Siapa yang menemukan StunCare?",
+        "Dari mana asal usul StunCare?",
+        "Siapa yang menciptakan aplikasi ini?",
+        "Siapa yang berperan dalam pembuatanmu, StunCare?",
+        "Apakah kamu bisa memberitahu saya siapa penemu StunCare?",
+        "Siapa yang menemukan dan menciptakan aplikasi StunCare?",
+        "Siapa yang ada di balik pembuatan StunCare?",
+        "Bolehkah kamu memberitahu saya siapa pencipta StunCare?",
+        "Siapa yang menciptakanmu, StunCare?",
+        "Tolong beritahu saya siapa yang membuat aplikasi ini."
       ],
       "responses": [
-        "StunCare diciptakan oleh mahasiswa dan mahasiswi dari Universitas Amikom Purwokerto",
-        "Pembuat StunCare dari kalangan mahasiswa dan mahasiswi lho dari Universitas Amikom Purwokerto",
-        "Penciptaku berasal dari mahasiswa yang kreatif, sehingga StunCare bisa aktif saat ini!",
-        "Penciptaku adalah mahasiswa kreatif dari Universitas Amikom Purwokerto",
-        "StunCare adalah Chatbot yang dikembangkan oleh tim LKTI Gemastik Universitas Amikom Purwokerto."
+        "StunCare dikembangkan oleh mahasiswa dan mahasiswi dari Universitas Amikom Purwokerto.",
+        "Pembuat StunCare adalah para mahasiswa dan mahasiswi dari Universitas Amikom Purwokerto.",
+        "StunCare diciptakan oleh para mahasiswa yang memiliki kreativitas tinggi, sehingga StunCare dapat aktif saat ini!",
+        "Pencipta StunCare adalah para mahasiswa yang kreatif dari Universitas Amikom Purwokerto.",
+        "StunCare merupakan Chatbot yang dikembangkan oleh tim LKTI Gemastik dari Universitas Amikom Purwokerto."
       ],
       "context": [""]
     },
@@ -420,7 +535,28 @@
         "okey",
         "ok",
         "oke",
-        "bay"
+        "bay",
+        "bubay",
+        "Sampai jumpa lagi",
+        "Hingga nanti",
+        "Hingga jumpa",
+        "Sampai berjumpa lagi",
+        "Terima kasih dan sampai jumpa",
+        "Sampai bertemu di lain waktu",
+        "Sampai jumpa kembali",
+        "Terima kasih dan selamat tinggal",
+        "Semoga berjumpa lagi",
+        "Hingga kita bertemu lagi",
+        "Hingga berjumpa di kesempatan berikutnya",
+        "Hingga nanti ya",
+        "Sampai ketemu lagi",
+        "Terima kasih dan bye bye",
+        "Okedeh",
+        "Baiklah",
+        "Baik",
+        "Ya",
+        "Semoga berjumpa kembali suatu saat",
+        "Sampai bertemu di lain waktu"
       ],
       "responses": [
         "Bye!",
@@ -431,7 +567,17 @@
         "See u! Senang bisa menemani kamu",
         "See u again sahabat StunCare, semoga harimu selalu baik yah",
         "Selamat tinggal! Terima kasih telah menghabiskan waktu bersama StunCare.",
-        "Jika Anda memiliki pertanyaan lain, jangan ragu untuk kembali. Sampai jumpa lagi!"
+        "Jika Anda memiliki pertanyaan lain, jangan ragu untuk kembali. Sampai jumpa lagi!",
+        "Selamat tinggal!",
+        "Dadahh!",
+        "Selamat jalan!",
+        "Selamat berpisah, semoga harimu menyenangkan!",
+        "Hingga bertemu lagi!",
+        "Sampai jumpa kembali!",
+        "Terima kasih dan sampai jumpa! Senang bisa menemani kamu.",
+        "Hingga berjumpa lagi, semoga harimu selalu baik.",
+        "Selamat tinggal! Terima kasih atas waktu yang telah kamu habiskan bersama StunCare.",
+        "Jika ada pertanyaan lain, jangan ragu untuk kembali. Sampai jumpa lagi!"
       ],
       "context": [""]
     },
@@ -442,43 +588,20 @@
         "Thank you",
         "Terima kasih",
         "terimakasih",
-        "StunCare makasih banget yaaa",
-        "Terima kasih banyak", 
-        "Berkat kamu aku lega",
-        "Senang bisa berbicara dengan kamu StunCare", 
-        "Senang ngobrol sama StunCare",
-        "Senang bisa ngomong sama kamu",
-        "aku jadi lega, makasih udah bantu aku",
-        "terima kasih udah bantu aku",
-        "Terima kasih udah menemani",
-        "aku senang ketika mengobrol denganmu",
-        "StunCare, terima kasih ya",
-        "aku terbantu banget, makasih ya",
-        "makasih udah semangatin aku",
-        "makasih udah ngasih semangat aku",
-        "makasih udah ngasih solusi",
-        "aku berterima kasih sama kamu StunCare udah mau membantu aku",
-        "Makasih banyak yah kamu mau bantuin aku",
-        "aku berterima kasih udah dibantuin",
-        "aku senang ngobrol sama kamu, makasih udah kasih aku solusi",
-        "aku senang ketika di beri semangat sama kamu",
-        "seneng banget deh ngobrol sama kamu",
-        "makasih loh ya, kamu baik banget",
-        "makasih ya udah mau nemenin aku",
-        "terima kasih udah hibur aku",
-        "makasih ya udah bantu, aku seneng banget",
-        "StunCare terima kasih ya aku senang ditemani kamu",
-        "Makasih ya aku terhibur",
-        "StunCare menghibur sekali",
-        "terima kasih mblo"
+        "Terima kasih!",
+        "Terima kasih banyak!",
+        "Makasih!",
+        "StunCare, terima kasih ya!",
+        "Makasih banget ya, StunCare.",
+        "Senang bisa berbicara denganmu, StunCare.",
+        "StunCare, terima kasih ya."
       ],
       "responses": [
-        "Dengan senang hati :) StunCare selalu ada untuk membantu meningkatkan gizi balita",
-        "Iyaa dengan senang hati sahabat StunCare, Tetap semangat yaa",
-        "StunCare senang ketika bisa membantu kamu",
-        "Syukurlahh StunCare sangat senang bisa membantu kamu :)",
-        "Sama-sama! Senang bisa membantu.",
-        "Jika Anda memiliki pertanyaan atau butuh bantuan lainnya, jangan ragu untuk mengajukannya. StunCare di sini untuk membantu Anda."
+        "Senang dapat membantu! StunCare hadir untuk memberikan informasi seputar stunting dan siap membantu kamu.",
+        "Terima kasih! StunCare berharap dapat terus membantu meningkatkan pemahaman tentang stunting melalui aplikasi ini.",
+        "Kami senang bisa membantu. StunCare berkomitmen untuk memberikan dukungan dan informasi terbaik tentang stunting melalui aplikasi ini.",
+        "Terima kasih telah menggunakan StunCare! Kami berharap aplikasi ini memberikan manfaat dan solusi dalam mengatasi masalah stunting.",
+        "Kami sangat mengapresiasi terima kasihmu! StunCare berusaha memberikan pengalaman terbaik dalam mempelajari dan mengatasi stunting melalui aplikasi ini."
       ],
       "context": [""]
     },
@@ -499,7 +622,6 @@
         "stunting",
         "penyakit stunting adalah",
         "kamu tau ngga apa itu stunting?",
-        "kamu tau ngga apa itu stunting",
         "apa itu stunting",
         "kamu tau apa itu stunting?"
       ],
@@ -526,10 +648,10 @@
         "Adakah ciri-ciri stunting?"
       ],
       "responses": [
-        "Beberapa ciri-ciri stunting yang umum terjadi adalah Pertumbuhan tulang pada anak yang tertunda, Berat badan rendah apabila dibandingkan dengan anak seusianya, Tinggi badan lebih pendek dari anak seusianya.",
-        "Ciri-ciri stunting meliputi pertumbuhan fisik yang terhambat, berat badan rendah, perkembangan mental terhambat, keterlambatan perkembangan motorik, dan rentan terhadap infeksi. Penting untuk berkonsultasi dengan tenaga medis jika Anda memiliki kekhawatiran terkait pertumbuhan dan perkembangan anak.",
         "Ciri-ciri stunting meliputi tinggi badan yang pendek, berat badan proporsional, pertumbuhan yang lambat, perkembangan motorik terlambat, keterlambatan perkembangan kognitif, rentan terhadap infeksi, dan kelemahan umum.",
-        "Ciri-ciri stunting meliputi tinggi badan yang pendek, berat badan proporsional, pertumbuhan yang lambat, keterlambatan perkembangan fisik dan kognitif, rentan terhadap infeksi, serta kelemahan dan kelesuan."
+        "Ciri-ciri stunting meliputi tinggi badan yang pendek, berat badan proporsional, pertumbuhan yang lambat, keterlambatan perkembangan fisik dan kognitif, rentan terhadap infeksi, serta kelemahan dan kelesuan.",
+        "Beberapa ciri-ciri stunting yang umum terjadi adalah Pertumbuhan tulang pada anak yang tertunda, Berat badan rendah apabila dibandingkan dengan anak seusianya, Tinggi badan lebih pendek dari anak seusianya.",
+        "Ciri-ciri stunting meliputi pertumbuhan fisik yang terhambat, berat badan rendah, perkembangan mental terhambat, keterlambatan perkembangan motorik, dan rentan terhadap infeksi. Penting untuk berkonsultasi dengan tenaga medis jika Anda memiliki kekhawatiran terkait pertumbuhan dan perkembangan anak."
       ],
       "context": [""]
     },
@@ -570,10 +692,10 @@
         "Cara mengetahui anak yang terkena penyakit stunting?"
       ],
       "responses": [
-        "Pertumbuhan dan perkembangan merupakan hal yang seharusnya selalu dipantau pada setiap kunjungan ke dokter. Pemantauan pertumbuhan anak biasanya dilakukan dengan memplot berat badan dan tinggi badan ke dalam suatu kurva pertumbuhan. Seorang anak dikatakan pendek  jika tinggi badan atau panjang badan menurut usia lebih dari dua standar deviasi di bawah median kurve standar pertumbuhan anak WHO.",
-        "Untuk mengetahui apakah seorang anak terkena stunting, Anda dapat mengukur tinggi badannya dan membandingkannya dengan standar pertumbuhan yang ditetapkan. Perhatikan juga pertumbuhan berat badannya. Jika ada kekhawatiran, konsultasikan dengan dokter atau tenaga kesehatan anak, dan evaluasi pola makan anak untuk memastikan nutrisi yang cukup. Penting untuk mendapatkan diagnosis resmi dari tenaga kesehatan.",
         "Cara mengetahui apakah seorang anak terkena stunting adalah dengan melakukan pengukuran tinggi badan anak dan membandingkannya dengan standar pertumbuhan yang sesuai. Konsultasi dengan tenaga kesehatan juga penting untuk mendapatkan diagnosis yang akurat.",
-        "Cara mengetahui anak terkena stunting adalah dengan melakukan pengukuran tinggi badan anak, membandingkannya dengan standar pertumbuhan yang sesuai, dan berkonsultasi dengan tenaga kesehatan."
+        "Cara mengetahui anak terkena stunting adalah dengan melakukan pengukuran tinggi badan anak, membandingkannya dengan standar pertumbuhan yang sesuai, dan berkonsultasi dengan tenaga kesehatan.",
+        "Pertumbuhan dan perkembangan merupakan hal yang seharusnya selalu dipantau pada setiap kunjungan ke dokter. Pemantauan pertumbuhan anak biasanya dilakukan dengan memplot berat badan dan tinggi badan ke dalam suatu kurva pertumbuhan. Seorang anak dikatakan pendek  jika tinggi badan atau panjang badan menurut usia lebih dari dua standar deviasi di bawah median kurve standar pertumbuhan anak WHO.",
+        "Untuk mengetahui apakah seorang anak terkena stunting, Anda dapat mengukur tinggi badannya dan membandingkannya dengan standar pertumbuhan yang ditetapkan. Perhatikan juga pertumbuhan berat badannya. Jika ada kekhawatiran, konsultasikan dengan dokter atau tenaga kesehatan anak, dan evaluasi pola makan anak untuk memastikan nutrisi yang cukup. Penting untuk mendapatkan diagnosis resmi dari tenaga kesehatan."
       ],
       "context": [""]
     },
@@ -602,7 +724,7 @@
       "context": [""]
     },
     {
-      "tag": "faktor_yang_memperburuk_kondisi_stunting",
+      "tag": "faktor_stunting",
       "patterns": [
         "Apa faktor-faktor yang memperburuk kondisi anak yang mengalami stunting?",
         "faktor-faktor yang memperburuk kondisi anak yang mengalami stunting",
@@ -628,7 +750,7 @@
       "context": [""]
     },
     {
-      "tag": "yang_harus_dilakukan_seseorang_jika_disekitar_kita_terdapat_kasus_stunting",
+      "tag": "lakukan_stunting",
       "patterns": [
         "Apa yang harus dilakukan jika anak di sekitar kita mengalami stunting?",
         "Jika anak di sekitar kita mengalami stunting apa yang harus saya lakukan",
@@ -694,7 +816,8 @@
       "responses": [
         "Upaya tindakan pencegahan stunting atau perawakan pendek sebaiknya dimulai dari masa kehamilan. Bagi ibu hamil, upaya yang dapat dilakukan yaitu melakukan pemeriksaan kehamilan secara teratur, menghindari asap rokok dan memenuhi nutrisi yang baik selama masa kehamilan antara lain dengan menu sehat seimbang, asupan zat besi, asam folat, yodium yang cukup.",
         "Untuk mencegah stunting, berikan ASI eksklusif selama 6 bulan pertama, perkenalkan makanan pendamping ASI secara bertahap, berikan makanan yang seimbang dan kaya nutrisi, praktikkan pemberian makan yang sehat, perhatikan kebersihan lingkungan, rutin pantau pertumbuhan anak, tingkatkan edukasi dan kesadaran, dan pastikan akses ke pelayanan kesehatan yang memadai.",
-        "Mencegah stunting melibatkan pemberian ASI eksklusif, pemberian makanan pendamping ASI yang seimbang, makanan keluarga yang sehat, perawatan kesehatan ibu hamil, kebersihan dan sanitasi yang baik, edukasi dan kesadaran, akses ke layanan kesehatan, dan pendekatan lintas sektor."
+        "Mencegah stunting melibatkan pemberian ASI eksklusif, pemberian makanan pendamping ASI yang seimbang, makanan keluarga yang sehat, perawatan kesehatan ibu hamil, kebersihan dan sanitasi yang baik, edukasi dan kesadaran, akses ke layanan kesehatan, dan pendekatan lintas sektor.",
+        "Bagi Ibu hamil pentingnya pemberian ASI (Air Susu Ibu) untuk bayi. ASI mengandung gizi yang baik yang dapat menunjang pertumbuhan anak, didalam ASI juga terdapat zat yang membangun sistem imum yang membuat anak terhindar dari berbagai macam penyakit terutama stunting pada anak"
       ],
       "context": [""]
     },
@@ -752,7 +875,7 @@
         "Aku gatau gimana caranya mencegah stunting",
         "Cara cegah stunting",
         "Kamu tau ga, cara mencegah stunting",
-        "Cara biar aku bisa mencegah stunting",
+        "Cara biar ibu bisa mencegah stunting",
         "Mencegah stunting caranya apa aja",
         "Mencegah stunting",
         "cara mencegah stunting",
@@ -762,7 +885,13 @@
       "responses": [
         "Upaya tindakan antisipasi perawakan pendek sebaiknya dimulai dari masa kehamilan. Bagi ibu hamil, upaya yang dapat dilakukan yaitu melakukan pemeriksaan kehamilan secara teratur, menghindari asap rokok dan memenuhi nutrisi yang baik selama masa kehamilan antara lain dengan menu sehat seimbang, asupan zat besi, asam folat, yodium yang cukup.",
         "Untuk mencegah stunting, berikan ASI eksklusif pada bayi selama 6 bulan pertama, perkenalkan makanan pendamping ASI secara bertahap, pastikan nutrisi yang seimbang, berikan perawatan kesehatan yang adekuat, jaga kebersihan dan sanitasi, tingkatkan pendidikan dan kesadaran, serta akses ke perawatan kesehatan yang baik.",
-        "Cara mencegah stunting meliputi memberikan ASI eksklusif selama 6 bulan pertama, memperkenalkan makanan pendamping ASI yang seimbang, memberikan nutrisi yang seimbang dari berbagai kelompok makanan, memastikan perawatan kesehatan yang adekuat, menjaga kebersihan dan sanitasi lingkungan, meningkatkan pendidikan dan kesadaran tentang gizi, serta memastikan akses yang mudah ke perawatan kesehatan. Dengan mengimplementasikan langkah-langkah ini, kita dapat mencegah stunting dan mendukung pertumbuhan serta perkembangan anak dengan baik."
+        "Cara mencegah stunting meliputi memberikan ASI eksklusif selama 6 bulan pertama, memperkenalkan makanan pendamping ASI yang seimbang, memberikan nutrisi yang seimbang dari berbagai kelompok makanan, memastikan perawatan kesehatan yang adekuat, menjaga kebersihan dan sanitasi lingkungan, meningkatkan pendidikan dan kesadaran tentang gizi, serta memastikan akses yang mudah ke perawatan kesehatan. Dengan mengimplementasikan langkah-langkah ini, kita dapat mencegah stunting dan mendukung pertumbuhan serta perkembangan anak dengan baik.",
+        "Berikan makanan yang bervariasi: Sediakan makanan dengan berbagai jenis, warna, dan tekstur untuk memastikan anak mendapatkan nutrisi yang beragam.",
+        "Perhatikan porsi makan yang tepat: Berikan porsi makan yang sesuai dengan kebutuhan anak sesuai dengan usia dan tinggi badannya.",
+        "Jaga kebersihan makanan dan air: Pastikan makanan dan air yang dikonsumsi anak bersih dan aman agar terhindar dari infeksi yang dapat mempengaruhi pertumbuhan.",
+        "Perhatikan kebersihan diri: Ajarkan anak untuk mencuci tangan sebelum makan dan setelah buang air, serta menjaga kebersihan lingkungan sekitar agar terhindar dari penyakit.",
+        "Stimulasi pertumbuhan dan perkembangan yang tepat: Berikan rangsangan fisik, mental, dan emosional yang sesuai dengan usia anak untuk membantu perkembangan mereka secara optimal.",
+        "Akses ke layanan kesehatan yang baik: Pastikan anak mendapatkan pemeriksaan kesehatan secara rutin dan akses ke layanan kesehatan yang mencakup imunisasi, pemeriksaan gizi, dan perawatan medis yang diperlukan."
       ],
       "context": [""]
     },
@@ -784,9 +913,17 @@
         "tanda-tanda gizi yang baik seperti apa?"
       ],
       "responses": [
-        "gizi baik ditandai dengan kondisi status gizi yang berada dalam keadaan baik alias normal. Anak yang memiliki status gizi yang normal, tentu saja akan mempunyai indeks massa tubuh atau IMT (dalam bahasa Inggris dikenal dengan istilah Body Mass Index atau BMI) yang normal pula.",
+        "Gizi baik ditandai dengan kondisi status gizi yang berada dalam keadaan baik alias normal. Anak yang memiliki status gizi yang normal, tentu saja akan mempunyai indeks massa tubuh atau IMT (dalam bahasa Inggris dikenal dengan istilah Body Mass Index atau BMI) yang normal pula.",
         "Gizi baik pada anak yang mengalami stunting termasuk kesehatan yang baik, aktivitas fisik normal, pertumbuhan berat badan yang konsisten, dan perkembangan kognitif yang sesuai. Penting untuk mencatat bahwa tanda-tanda ini hanya memberikan indikasi kemungkinan adanya gizi yang baik, dan diagnosis akurat tetap perlu dilakukan oleh dokter atau tenaga kesehatan anak.",
-        "Tanda-tanda gizi baik pada anak yang mengalami stunting termasuk kesehatan yang baik, aktivitas fisik normal, pertumbuhan berat badan yang sejalan, dan perkembangan kognitif yang normal."
+        "Tanda-tanda gizi baik pada anak yang mengalami stunting termasuk kesehatan yang baik, aktivitas fisik normal, pertumbuhan berat badan yang sejalan, dan perkembangan kognitif yang normal.",
+        "Energik dan aktif: Anak dengan gizi baik cenderung memiliki energi yang cukup dan aktif dalam menjalani aktivitas sehari-hari.",
+        "Kulit sehat: Kulit anak yang mendapatkan gizi yang baik biasanya tampak sehat, halus, dan bercahaya. Mereka tidak memiliki masalah kulit seperti kulit kering, kemerahan yang berlebihan, atau ruam yang sering muncul.",
+        "Mata cerah dan sehat: Anak yang mendapatkan gizi yang baik biasanya memiliki mata yang cerah, bercahaya, dan tidak ada tanda-tanda masalah kesehatan mata seperti mata merah, peradangan, atau gangguan penglihatan.",
+        "Kekebalan yang baik: Anak dengan gizi baik cenderung memiliki sistem kekebalan yang kuat, sehingga mereka lebih mampu melawan infeksi dan penyakit.",
+        "Konsentrasi dan daya ingat yang baik: Anak dengan gizi baik cenderung memiliki konsentrasi yang baik dan daya ingat yang kuat, memungkinkan mereka untuk belajar dan berkembang dengan optimal.",
+        "Sistem pencernaan yang sehat: Anak dengan gizi baik biasanya memiliki sistem pencernaan yang sehat, termasuk buang air besar yang teratur dan tidak ada masalah pencernaan yang serius.",
+        "Tingkat energi yang stabil: Anak yang mendapatkan gizi yang baik akan memiliki tingkat energi yang stabil sepanjang hari, tidak mudah lelah atau lesu.",
+        "Sikap dan suasana hati yang baik: Anak dengan gizi baik cenderung memiliki sikap yang positif, suasana hati yang baik, dan lebih mampu menghadapi stres."
       ],
       "context": [""]
     },
@@ -796,13 +933,13 @@
         "jaga pola makan penting ga",
         "pola makan baik itu gimana",
         "pola makan yg baik buat stunting itu gimana",
-        "ada saran pola makan buat aku?",
+        "ada saran pola makan buat bayi?",
         "pola makan berantakan mempengaruhi stunting ga",
         "pola makan berpengaruh ga buat stunting",
         "seberapa berpengaruh pola makan untuk stunting",
         "pengen jaga pola makan aku, mulai darimana",
         "awal mula pola makan yg baik gimana",
-        "cara tau pola makan aku baik gimana",
+        "cara tau pola makan bayi yang baik gimana",
         "Bagaimana cara mengatur pola makan yang baik bagi kesehatan gizi",
         "Bagaimana cara mengatur pola makan yang baik",
         "pola makan",
@@ -897,6 +1034,91 @@
         "Stunting memiliki pengaruh yang meliputi gangguan perkembangan motorik, masalah kesehatan mental, gangguan reproduksi, keterbatasan kesehatan umum, dan keterbatasan dalam kualitas hidup."
       ],
       "context": [""]
-    }
+    },
+    {
+      "tag": "menu_makanan",
+      "patterns": [
+        "Apa saja makanan yang kaya zat gizi untuk mencegah stunting pada anak?",
+        "Bagaimana memilih menu makanan yang sesuai untuk anak agar tidak mengalami stunting?",
+        "Apakah ada jenis makanan yang khusus dianjurkan untuk pertumbuhan optimal pada anak?",
+        "Bagaimana cara menyusun menu makanan sehari-hari yang seimbang untuk mencegah stunting?",
+        "Apa saja contoh menu makanan sehat untuk anak yang sedang tumbuh?",
+        "Bagaimana menggabungkan berbagai kelompok makanan dalam menu anak untuk mencegah stunting?",
+        "Apakah ada makanan yang harus dihindari agar anak tidak mengalami stunting?",
+        "Apa saja makanan penunjang pertumbuhan anak yang mudah ditemukan dan terjangkau?",
+        "Bagaimana menyajikan makanan yang menarik bagi anak agar mereka lebih tertarik untuk makan dengan gizi yang cukup?",
+        "Apa saran untuk menyusun menu makanan yang sehat bagi anak dengan selera makan yang sulit?"
+
+      ],
+      "responses": [
+       "Beberapa contoh makanan yang kaya zat gizi untuk mencegah stunting pada anak antara lain: sayuran hijau, buah-buahan segar, daging tanpa lemak, ikan, kacang-kacangan, telur, susu atau produk olahannya, biji-bijian utuh, dan makanan yang mengandung zat besi.",
+       "Penting untuk memilih menu makanan yang mengandung berbagai zat gizi, termasuk karbohidrat, protein, lemak sehat, vitamin, dan mineral. Pilihlah makanan yang segar, tidak diproses berlebihan, dan beragam jenisnya. Pastikan juga mengatur porsi makan yang sesuai dengan kebutuhan anak.",
+       "Beberapa jenis makanan yang dianjurkan untuk pertumbuhan optimal pada anak antara lain: makanan tinggi protein seperti daging, ikan, telur, dan kacang-kacangan; makanan kaya kalsium seperti susu dan produk olahannya; makanan yang mengandung zat besi seperti daging merah, hati, dan sayuran hijau; serta makanan yang mengandung vitamin dan mineral penting seperti buah-buahan dan sayuran.",
+       "Cara menyusun menu makanan seimbang adalah dengan memperhatikan kebutuhan zat gizi harian anak, termasuk karbohidrat, protein, lemak sehat, serta vitamin dan mineral. Gabungkan berbagai jenis makanan yang sehat dan sesuai dengan selera anak dalam porsi yang tepat.",
+       "Contoh menu makanan sehat untuk anak yang sedang tumbuh dapat mencakup Sarapan: Roti gandum dengan selai kacang, pisang, dan susu rendah lemak. Makan Siang: Nasi merah, ayam panggang, sayuran hijau, dan tahu/tempe. Snack: Potongan buah-buahan segar dan yoghurt rendah lemak. Makan Malam: Quinoa, ikan panggang, sayuran panggang, dan sup kacang merah. Camilan: Smoothie pisang dengan susu rendah lemak dan bayam.",
+       "Pastikan untuk mencakup karbohidrat (nasi, roti gandum), protein (daging, ikan, kacang-kacangan), sayuran hijau, buah-buahan, dan lemak sehat (minyak zaitun, alpukat) dalam menu anak secara seimbang. Sesuaikan porsi makanan berdasarkan usia dan aktivitas anak.",
+       "Hindari makanan yang tinggi gula tambahan, makanan olahan yang mengandung banyak bahan tambahan, serta makanan cepat saji yang tinggi lemak trans dan natrium. Selain itu, batasi juga konsumsi minuman manis dan soda.",
+       "Beberapa makanan penunjang pertumbuhan anak yang mudah ditemukan dan terjangkau antara lain: telur, susu, ikan sarden, sayuran hijau seperti bayam, wortel, kacang-kacangan, dan buah-buahan seperti pisang dan apel.",
+       "Menyajikan makanan dengan tampilan menarik, seperti menggunakan variasi warna dan bentuk. Libatkan anak dalam proses memilih dan menyiapkan makanan. Ajak mereka untuk mencoba makanan baru dengan memberikan contoh positif dan memberikan pujian ketika mereka mencoba makanan yang sehat.",
+       "Jika anak memiliki selera makan yang sulit, perlu kesabaran dan kreativitas dalam menyusun menu makanan yang sehat. Coba variasikan tekstur dan penyajian makanan, serta campurkan makanan yang disukai anak dengan makanan yang sehat. Ajak anak berpartisipasi dalam memilih makanan dan berikan contoh yang baik dengan memperlihatkan bahwa makanan sehat juga bisa enak."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "perawatan medis",
+      "patterns": [
+       "Apa peran perawatan medis dalam membantu anak yang mengalami stunting?",
+       "Apa saja langkah-langkah medis yang biasa diambil untuk merawat anak yang mengalami stunting?",
+       "Bagaimana dokter dapat membantu dalam perawatan anak yang mengalami stunting?",
+       "Apakah pemeriksaan medis diperlukan untuk anak yang mengalami stunting?",
+       "Apa peran nutrisi dalam perawatan medis anak yang mengalami stunting?",
+       "Apakah terapi hormonal atau pengobatan obat-obatan dapat membantu anak yang mengalami stunting?",
+       "Apa peran ahli gizi dalam perawatan medis anak yang mengalami stunting?",
+       "Bagaimana perawatan medis dapat membantu memperbaiki pertumbuhan anak yang mengalami stunting?",
+       "Apakah terapi fisik atau rehabilitasi fisik dapat membantu anak yang mengalami stunting?",
+       "Bagaimana pentingnya kolaborasi antara dokter, ahli gizi, dan ahli lainnya dalam perawatan medis anak yang mengalami stunting?"
+      ],
+      "responses": [
+       "Perawatan medis dapat memberikan pendekatan holistik dalam mengatasi stunting pada anak, termasuk diagnosis yang akurat, penanganan kondisi kesehatan yang mendasarinya, serta intervensi medis yang sesuai.",
+       "Langkah-langkah medis yang biasa diambil meliputi evaluasi kesehatan secara menyeluruh, pengobatan penyakit atau kondisi yang mendasari stunting, pemberian suplemen gizi yang sesuai, dan pemantauan pertumbuhan dan perkembangan anak secara teratur.",
+       "Dokter dapat membantu dengan melakukan evaluasi kesehatan, memberikan diagnosis dan perawatan untuk kondisi yang mendasari stunting, memberikan saran gizi yang tepat, serta memantau dan mengukur pertumbuhan anak secara teratur.",
+       "Pemeriksaan medis diperlukan untuk mendiagnosis dan memahami kondisi kesehatan yang mendasari stunting, seperti pemeriksaan fisik, tes laboratorium, dan pemeriksaan pertumbuhan.",
+       "Nutrisi memainkan peran penting dalam perawatan medis anak yang mengalami stunting. Pemberian nutrisi yang adekuat, termasuk suplemen gizi yang sesuai, dapat membantu memperbaiki kekurangan gizi dan mendukung pertumbuhan yang optimal.",
+       "Terapi hormonal atau pengobatan obat-obatan jarang digunakan secara langsung untuk mengatasi stunting pada anak, kecuali jika ada kondisi medis yang mendasarinya. Pengobatan akan disesuaikan dengan penyebab spesifik stunting pada anak.",
+       "Ahli gizi memainkan peran penting dalam memberikan saran gizi yang tepat dan membantu merancang rencana makan yang sesuai untuk anak yang mengalami stunting. Mereka juga akan memantau pertumbuhan dan perkembangan anak secara teratur.",
+       "Perawatan medis dapat membantu dengan mengatasi faktor penyebab stunting, seperti defisiensi gizi, infeksi, atau masalah kesehatan lainnya. Dengan memberikan perawatan yang tepat, pertumbuhan anak dapat ditingkatkan dan kondisi stunting dapat diminimalkan.",
+       "Terapi fisik atau rehabilitasi fisik tidak langsung berkaitan dengan stunting itu sendiri, tetapi dapat membantu anak untuk mengoptimalkan kemampuan motorik dan perkembangan fisiknya, sehingga mendukung proses pemulihan dan pertumbuhan yang lebih baik secara keseluruhan.",
+       "Kolaborasi antara dokter, ahli gizi, dan ahli lainnya sangat penting untuk memberikan perawatan medis yang komprehensif dan terkoordinasi. Setiap profesional akan memberikan kontribusi yang unik sesuai dengan bidang keahliannya guna merawat anak yang mengalami stunting secara efektif."
+      ],
+      "context": [""]
+    },
+    {
+        "tag": "deteksi_stunting",
+        "patterns": [
+          "Mengapa penting untuk mendeteksi stunting pada anak secara dini?",
+          "Bagaimana pendeteksian dini stunting pada anak dapat memberikan manfaat jangka panjang?",
+          "Apa saja metode pendeteksian dini stunting yang dapat dilakukan?",
+          "Bagaimana pendeteksian dini stunting dapat mempengaruhi keputusan pengobatan dan intervensi?",
+          "Apa peran penting pemeriksaan rutin dan pemantauan pertumbuhan anak dalam pendeteksian dini stunting?",
+          "Apakah pendeteksian dini stunting hanya dilakukan oleh profesional medis?",
+          "Bagaimana dampak pendeteksian dini stunting pada keberhasilan intervensi?",
+          "Mengapa pendeteksian dini stunting harus menjadi bagian dari upaya kesehatan anak secara menyeluruh?",
+          "Apa konsekuensi dari tidak mendeteksi stunting pada anak secara dini?",
+          "Bagaimana pendeteksian dini stunting dapat memberikan kesempatan untuk memperbaiki pertumbuhan anak yang terhambat?"
+        ],
+        "responses": [
+          "Pendeteksian dini stunting pada anak penting karena dapat membantu mengidentifikasi masalah pertumbuhan yang mungkin terjadi sehingga tindakan pencegahan dan intervensi dapat dilakukan lebih awal.",
+          "Dengan mendeteksi stunting pada anak secara dini, intervensi dapat dilakukan segera untuk memperbaiki masalah pertumbuhan dan mencegah dampak jangka panjang, seperti masalah kesehatan dan perkembangan yang berkelanjutan.",
+          "Metode pendeteksian dini stunting dapat dilakukan melalui pengukuran tinggi badan anak dengan menggunakan alat pengukur yang akurat dan membandingkan hasilnya dengan standar pertumbuhan yang sesuai untuk usia dan jenis kelamin anak.",
+          "Dengan mendeteksi stunting secara dini, pengobatan dan intervensi yang tepat dapat direncanakan dan dilakukan lebih awal, termasuk peningkatan asupan gizi, perawatan medis, serta program stimulasi pertumbuhan dan perkembangan yang sesuai.",
+          "Pemeriksaan rutin dan pemantauan pertumbuhan anak sangat penting dalam pendeteksian dini stunting karena memungkinkan identifikasi perubahan pertumbuhan yang tidak normal sejak dini dan memicu tindakan lebih lanjut.",
+          "Meskipun profesional medis seperti dokter dan tenaga kesehatan memiliki peran penting dalam pendeteksian dini stunting, orang tua dan pengasuh juga dapat terlibat dengan memantau pertumbuhan anak dan melaporkan jika ada perubahan yang mencurigakan.",
+          "Pendeteksian dini stunting memungkinkan intervensi yang lebih tepat waktu dan efektif. Semakin cepat intervensi dilakukan, semakin besar kemungkinan keberhasilan dalam memperbaiki masalah pertumbuhan dan mencegah dampak jangka panjang.",
+          "Pendekatan kesehatan anak yang menyeluruh mencakup pendeteksian dini stunting sebagai bagian penting, karena stunting dapat menjadi indikator adanya masalah kesehatan atau gizi yang mendasarinya yang perlu ditangani secara komprehensif.",
+          "Jika stunting tidak dideteksi secara dini, masalah pertumbuhan anak mungkin tidak teridentifikasi atau diatasi tepat waktu, yang dapat berdampak negatif pada kesehatan, perkembangan, dan kualitas hidup anak di masa depan.",
+          "Dengan mendeteksi stunting pada tahap awal, program dan intervensi yang tepat dapat dilakukan untuk memperbaiki pertumbuhan anak yang terhambat dan membantu mereka mencapai potensi pertumbuhan dan perkembangan yang optimal."
+        ],
+        "context": [""]
+      },
   ]
 }
